@@ -1,0 +1,449 @@
+{
+    "groupings": {
+        "byCity": {
+            "Entebbe": {
+                "Psychiatrists": {
+                    "Male": [
+                        {
+                            "name": "Dr. Martin Kamoga",
+                            "specialty": "Psychiatrist",
+                            "qualifications": "MD Psychiatry",
+                            "location": {
+                                "latitude": 0.052,
+                                "longitude": 32.46,
+                                "address": "2 Victoria Mall Rd, Entebbe, Uganda",
+                                "googleMapsLink": "https://www.google.com/maps?q=0.052,32.460"
+                            },
+                            "phone": "+256 783 654321",
+                            "bio": "Dr. Martin Kamoga specializes in psychotic disorders and schizophrenia."
+                        }
+                    ],
+                    "Female": [
+                        {
+                            "name": "Dr. Evelyn Nyakato",
+                            "specialty": "Psychiatrist",
+                            "qualifications": "MD Psychiatry",
+                            "location": {
+                                "latitude": 0.048,
+                                "longitude": 32.465,
+                                "address": "1 Airport Rd, Entebbe, Uganda",
+                                "googleMapsLink": "https://www.google.com/maps?q=0.048,32.465"
+                            },
+                            "phone": "+256 782 123456",
+                            "bio": "Dr. Evelyn Nyakato offers treatment for mood and anxiety disorders."
+                        }
+                    ]
+                },
+                "Clinical Psychologists": {
+                    "Female": [
+                        {
+                            "name": "Dr. Alice Nabirye",
+                            "specialty": "Clinical Psychologist",
+                            "qualifications": "PhD Clinical Psychology",
+                            "location": {
+                                "latitude": 0.05,
+                                "longitude": 32.462,
+                                "address": "7 Nakiwogo Rd, Entebbe, Uganda",
+                                "googleMapsLink": "https://www.google.com/maps?q=0.050,32.462"
+                            },
+                            "phone": "+256 784 567890",
+                            "bio": "Dr. Alice Nabirye provides therapy for PTSD and trauma recovery."
+                        }
+                    ]
+                }
+            },
+            "Mbarara": {
+                "Psychiatrists": {
+                    "Male": [
+                        {
+                            "name": "Dr. John Tumwine",
+                            "specialty": "Psychiatrist",
+                            "qualifications": "MD Psychiatry",
+                            "location": {
+                                "latitude": -0.604,
+                                "longitude": 30.655,
+                                "address": "10 Bananuka Dr, Mbarara, Uganda",
+                                "googleMapsLink": "https://www.google.com/maps?q=-0.604,30.655"
+                            },
+                            "phone": "+256 785 123456",
+                            "bio": "Dr. John Tumwine treats bipolar disorder and depression."
+                        }
+                    ]
+                },
+                "Child Psychologists": {
+                    "Female": [
+                        {
+                            "name": "Dr. Harriet Akello",
+                            "specialty": "Child Psychologist",
+                            "qualifications": "MA Child Psychology",
+                            "location": {
+                                "latitude": -0.607,
+                                "longitude": 30.65,
+                                "address": "5 Nyamitanga Rd, Mbarara, Uganda",
+                                "googleMapsLink": "https://www.google.com/maps?q=-0.607,30.650"
+                            },
+                            "phone": "+256 786 543210",
+                            "bio": "Dr. Harriet Akello specializes in developmental disorders and child behavior therapy."
+                        }
+                    ]
+                }
+            },
+            "Jinja": {
+                "Behavioral Therapists": {
+                    "Male": [
+                        {
+                            "name": "Dr. Sam Kintu",
+                            "specialty": "Behavioral Therapist",
+                            "qualifications": "MSc Behavioral Therapy",
+                            "location": {
+                                "latitude": 0.445,
+                                "longitude": 33.203,
+                                "address": "12 Main St, Jinja, Uganda",
+                                "googleMapsLink": "https://www.google.com/maps?q=0.445,33.203"
+                            },
+                            "phone": "+256 788 654789",
+                            "bio": "Dr. Sam Kintu focuses on cognitive-behavioral therapy for anxiety disorders."
+                        }
+                    ]
+                }
+            },
+            "Lira": {
+                "Addiction Specialists": {
+                    "Female": [
+                        {
+                            "name": "Dr. Stella Amoding",
+                            "specialty": "Addiction Specialist",
+                            "qualifications": "MD Psychiatry",
+                            "location": {
+                                "latitude": 2.249,
+                                "longitude": 32.89,
+                                "address": "4 Obote Ave, Lira, Uganda",
+                                "googleMapsLink": "https://www.google.com/maps?q=2.249,32.890"
+                            },
+                            "phone": "+256 789 987654",
+                            "bio": "Dr. Stella Amoding offers therapy for substance abuse and dependency."
+                        }
+                    ]
+                }
+            },
+            "Gulu": {
+                "Marriage Counselors": {
+                    "Male": [
+                        {
+                            "name": "Dr. Daniel Odong",
+                            "specialty": "Marriage Counselor",
+                            "qualifications": "PhD Marriage Counseling",
+                            "location": {
+                                "latitude": 2.774,
+                                "longitude": 32.295,
+                                "address": "8 Gulu Main Rd, Gulu, Uganda",
+                                "googleMapsLink": "https://www.google.com/maps?q=2.774,32.295"
+                            },
+                            "phone": "+256 780 345678",
+                            "bio": "Dr. Daniel Odong helps couples strengthen their relationships through effective communication strategies."
+                        }
+                    ]
+                }
+            },
+            "Kampala": {
+                "Psychiatrists": {
+                    "Male": [
+                        {
+                            "name": "Dr. Michael Ssembajjwe",
+                            "specialty": "Psychiatrist",
+                            "qualifications": "MD Psychiatry",
+                            "location": {
+                                "latitude": 0.313,
+                                "longitude": 32.582,
+                                "address": "Kampala Rd, Kampala, Uganda",
+                                "googleMapsLink": "https://www.google.com/maps?q=0.313,32.582"
+                            },
+                            "phone": "+256 702 345678",
+                            "bio": "Dr. Michael Ssembajjwe specializes in anxiety and stress-related disorders."
+                        },
+                        {
+                            "name": "Dr. Brian Lwanga",
+                            "specialty": "Psychiatrist",
+                            "qualifications": "MD Psychiatry",
+                            "location": {
+                                "latitude": 0.311,
+                                "longitude": 32.576,
+                                "address": "Kabalagala, Kampala, Uganda",
+                                "googleMapsLink": "https://www.google.com/maps?q=0.311,32.576"
+                            },
+                            "phone": "+256 701 234567",
+                            "bio": "Dr. Brian Lwanga specializes in adult psychiatry, focusing on mood disorders."
+                        },
+                        {
+                            "name": "Dr. Emmanuel Okello",
+                            "specialty": "Psychiatrist",
+                            "qualifications": "MD Psychiatry",
+                            "location": {
+                                "latitude": 0.314,
+                                "longitude": 32.579,
+                                "address": "Luzira, Kampala, Uganda",
+                                "googleMapsLink": "https://www.google.com/maps?q=0.314,32.579"
+                            },
+                            "phone": "+256 705 345678",
+                            "bio": "Dr. Emmanuel Okello treats patients suffering from schizophrenia and bipolar disorder."
+                        }
+                    ],
+                    "Female": [
+                        {
+                            "name": "Dr. Sarah Tumusiime",
+                            "specialty": "Psychiatrist",
+                            "qualifications": "MD Psychiatry",
+                            "location": {
+                                "latitude": 0.318,
+                                "longitude": 32.564,
+                                "address": "Bugolobi, Kampala, Uganda",
+                                "googleMapsLink": "https://www.google.com/maps?q=0.318,32.564"
+                            },
+                            "phone": "+256 788 123456",
+                            "bio": "Dr. Sarah Tumusiime provides treatment for depression and anxiety disorders."
+                        },
+                        {
+                            "name": "Dr. Nancy Nambiru",
+                            "specialty": "Psychiatrist",
+                            "qualifications": "MD Psychiatry",
+                            "location": {
+                                "latitude": 0.319,
+                                "longitude": 32.567,
+                                "address": "Makerere, Kampala, Uganda",
+                                "googleMapsLink": "https://www.google.com/maps?q=0.319,32.567"
+                            },
+                            "phone": "+256 752 987654",
+                            "bio": "Dr. Nancy Nambiru specializes in treating post-traumatic stress disorder (PTSD)."
+                        },
+                        {
+                            "name": "Dr. Sarah Namuganza",
+                            "specialty": "Psychiatrist",
+                            "qualifications": "MD Psychiatry",
+                            "location": {
+                                "latitude": 0.31,
+                                "longitude": 32.58,
+                                "address": "Bombo Rd, Kampala, Uganda",
+                                "googleMapsLink": "https://www.google.com/maps?q=0.310,32.580"
+                            },
+                            "phone": "+256 701 987654",
+                            "bio": "Dr. Sarah Namuganza specializes in the treatment of mood and psychotic disorders."
+                        }
+                    ]
+                },
+                "Clinical Psychologists": {
+                    "Male": [
+                        {
+                            "name": "Dr. Joseph Kaggwa",
+                            "specialty": "Clinical Psychologist",
+                            "qualifications": "PhD Clinical Psychology",
+                            "location": {
+                                "latitude": 0.322,
+                                "longitude": 32.568,
+                                "address": "Kampala, Uganda",
+                                "googleMapsLink": "https://www.google.com/maps?q=0.322,32.568"
+                            },
+                            "phone": "+256 754 321098",
+                            "bio": "Dr. Joseph Kaggwa specializes in therapy for anger management and anxiety."
+                        },
+                        {
+                            "name": "Dr. Henry Kabugo",
+                            "specialty": "Clinical Psychologist",
+                            "qualifications": "PhD Clinical Psychology",
+                            "location": {
+                                "latitude": 0.313,
+                                "longitude": 32.571,
+                                "address": "Kyaliwajjala, Kampala, Uganda",
+                                "googleMapsLink": "https://www.google.com/maps?q=0.313,32.571"
+                            },
+                            "phone": "+256 763 432567",
+                            "bio": "Dr. Henry Kabugo offers psychological assessment and treatment for depression."
+                        }
+                    ],
+                    "Female": [
+                        {
+                            "name": "Dr. Ruth Nakalema",
+                            "specialty": "Clinical Psychologist",
+                            "qualifications": "PhD Clinical Psychology",
+                            "location": {
+                                "latitude": 0.326,
+                                "longitude": 32.574,
+                                "address": "Lugogo, Kampala, Uganda",
+                                "googleMapsLink": "https://www.google.com/maps?q=0.326,32.574"
+                            },
+                            "phone": "+256 763 212345",
+                            "bio": "Dr. Ruth Nakalema works with patients experiencing trauma and PTSD."
+                        },
+                        {
+                            "name": "Dr. Judith Nansubuga",
+                            "specialty": "Clinical Psychologist",
+                            "qualifications": "PhD Clinical Psychology",
+                            "location": {
+                                "latitude": 0.32,
+                                "longitude": 32.58,
+                                "address": "Bwaise, Kampala, Uganda",
+                                "googleMapsLink": "https://www.google.com/maps?q=0.320,32.580"
+                            },
+                            "phone": "+256 786 345678",
+                            "bio": "Dr. Judith Nansubuga offers therapy for couples dealing with communication problems."
+                        },
+                        {
+                            "name": "Dr. Josephine Nabirye",
+                            "specialty": "Clinical Psychologist",
+                            "qualifications": "PhD Clinical Psychology",
+                            "location": {
+                                "latitude": 0.312,
+                                "longitude": 32.578,
+                                "address": "Wandegeya, Kampala, Uganda",
+                                "googleMapsLink": "https://www.google.com/maps?q=0.312,32.578"
+                            },
+                            "phone": "+256 780 543210",
+                            "bio": "Dr. Josephine Nabirye offers therapy for anxiety and behavioral disorders."
+                        }
+                    ]
+                },
+                "Behavioral Therapists": {
+                    "Male": [
+                        {
+                            "name": "Dr. Gilbert Kasujja",
+                            "specialty": "Behavioral Therapist",
+                            "qualifications": "MSc Behavioral Therapy",
+                            "location": {
+                                "latitude": 0.325,
+                                "longitude": 32.563,
+                                "address": "Namirembe, Kampala, Uganda",
+                                "googleMapsLink": "https://www.google.com/maps?q=0.325,32.563"
+                            },
+                            "phone": "+256 745 678901",
+                            "bio": "Dr. Gilbert Kasujja specializes in family therapy and behavioral interventions for children."
+                        },
+                        {
+                            "name": "Dr. Emmanuel Mugume",
+                            "specialty": "Behavioral Therapist",
+                            "qualifications": "MSc Behavioral Therapy",
+                            "location": {
+                                "latitude": 0.328,
+                                "longitude": 32.56,
+                                "address": "Mengo, Kampala, Uganda",
+                                "googleMapsLink": "https://www.google.com/maps?q=0.328,32.560"
+                            },
+                            "phone": "+256 782 654321",
+                            "bio": "Dr. Emmanuel Mugume focuses on cognitive-behavioral therapy (CBT) for managing anxiety and depression."
+                        },
+                        {
+                            "name": "Dr. Robert Mugisha",
+                            "specialty": "Behavioral Therapist",
+                            "qualifications": "MSc Behavioral Therapy",
+                            "location": {
+                                "latitude": 0.32,
+                                "longitude": 32.57,
+                                "address": "Kampala Rd, Kampala, Uganda",
+                                "googleMapsLink": "https://www.google.com/maps?q=0.320,32.570"
+                            },
+                            "phone": "+256 772 654321",
+                            "bio": "Dr. Robert Mugisha specializes in treating children with behavioral issues."
+                        }
+                    ],
+                    "Female": [
+                        {
+                            "name": "Dr. Miriam Nakazibwe",
+                            "specialty": "Behavioral Therapist",
+                            "qualifications": "MSc Behavioral Therapy",
+                            "location": {
+                                "latitude": 0.32,
+                                "longitude": 32.563,
+                                "address": "Kampala, Uganda",
+                                "googleMapsLink": "https://www.google.com/maps?q=0.320,32.563"
+                            },
+                            "phone": "+256 790 234567",
+                            "bio": "Dr. Miriam Nakazibwe provides therapy for individuals and families with behavioral issues."
+                        },
+                        {
+                            "name": "Dr. Lydia Akankwasa",
+                            "specialty": "Behavioral Therapist",
+                            "qualifications": "MSc Behavioral Therapy",
+                            "location": {
+                                "latitude": 0.323,
+                                "longitude": 32.569,
+                                "address": "Buziga, Kampala, Uganda",
+                                "googleMapsLink": "https://www.google.com/maps?q=0.323,32.569"
+                            },
+                            "phone": "+256 752 345678",
+                            "bio": "Dr. Lydia Akankwasa specializes in treating children and adolescents with behavioral disorders."
+                        }
+                    ]
+                },
+                "Addiction Specialists": {
+                    "Male": [
+                        {
+                            "name": "Dr. Charles Muwanguzi",
+                            "specialty": "Addiction Specialist",
+                            "qualifications": "MD Psychiatry",
+                            "location": {
+                                "latitude": 0.31,
+                                "longitude": 32.585,
+                                "address": "Kampala, Uganda",
+                                "googleMapsLink": "https://www.google.com/maps?q=0.310,32.585"
+                            },
+                            "phone": "+256 722 987654",
+                            "bio": "Dr. Charles Muwanguzi specializes in treating alcohol and drug dependencies."
+                        },
+                        {
+                            "name": "Dr. Isaac Muwonge",
+                            "specialty": "Addiction Specialist",
+                            "qualifications": "MD Psychiatry",
+                            "location": {
+                                "latitude": 0.321,
+                                "longitude": 32.562,
+                                "address": "Entebbe Rd, Kampala, Uganda",
+                                "googleMapsLink": "https://www.google.com/maps?q=0.321,32.562"
+                            },
+                            "phone": "+256 734 123456",
+                            "bio": "Dr. Isaac Muwonge offers addiction treatment with a focus on long-term recovery."
+                        },
+                        {
+                            "name": "Dr. Mark Kato",
+                            "specialty": "Addiction Specialist",
+                            "qualifications": "MD Psychiatry",
+                            "location": {
+                                "latitude": 0.328,
+                                "longitude": 32.572,
+                                "address": "Lubowa, Kampala, Uganda",
+                                "googleMapsLink": "https://www.google.com/maps?q=0.328,32.572"
+                            },
+                            "phone": "+256 750 123456",
+                            "bio": "Dr. Mark Kato is an addiction specialist focusing on recovery from substance abuse."
+                        }
+                    ],
+                    "Female": [
+                        {
+                            "name": "Dr. Susan Namukwaya",
+                            "specialty": "Addiction Specialist",
+                            "qualifications": "MD Psychiatry",
+                            "location": {
+                                "latitude": 0.324,
+                                "longitude": 32.57,
+                                "address": "Kampala, Uganda",
+                                "googleMapsLink": "https://www.google.com/maps?q=0.324,32.570"
+                            },
+                            "phone": "+256 779 234567",
+                            "bio": "Dr. Susan Namukwaya provides addiction therapy, with a focus on supporting women."
+                        },
+                        {
+                            "name": "Dr. Grace Sanyu",
+                            "specialty": "Addiction Specialist",
+                            "qualifications": "MD Psychiatry",
+                            "location": {
+                                "latitude": 0.322,
+                                "longitude": 32.574,
+                                "address": "Lugogo, Kampala, Uganda",
+                                "googleMapsLink": "https://www.google.com/maps?q=0.322,32.574"
+                            },
+                            "phone": "+256 791 987654",
+                            "bio": "Dr. Grace Sanyu works with patients recovering from drug addiction and behavioral issues."
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}
