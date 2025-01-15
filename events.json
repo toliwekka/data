@@ -1,0 +1,74 @@
+```json
+{
+    "events": {
+        "byCity": {
+            "Kampala": {
+                "2025-01": {
+                    "Workshop": [
+                        {
+                            "name": "Unlocking Youth Potential",
+                            "date": "2025-01-10 16:00",
+                            "location": {
+                                "latitude": 0.3136,
+                                "longitude": 32.5825,
+                                "address": "Kaazi Scout National Camping Ground, Kampala, Uganda",
+                                "googleMapsLink": "https://www.google.com/maps?q=0.2989407,32.6101184",
+                                "wazeLink": "https://waze.com/ul?q=0.2989407,32.6101184"
+                            },
+                            "description": "Enhancing Emotional Intelligence and Resilience Through PuzzleWars.",
+                            "image": "unlocking-youth-potential.jpg"
+                        }
+                    ],
+                    "Seminar": [
+                        {
+                            "name": "Counseling and Therapy Seminar",
+                            "date": "2025-01-15",
+                            "location": {
+                                "latitude": 0.3292,
+                                "longitude": 32.5772,
+                                "address": "Kampala International University, Kampala, Uganda",
+                                "googleMapsLink": "https://www.google.com/maps?q=0.3292,32.5772",
+                                "wazeLink": "https://waze.com/ul?q=0.3292,32.5772"
+                            },
+                            "description": "A seminar aimed at providing guidance on mental health counseling techniques.",
+                            "image": "counseling-seminar.jpg"
+                        }
+                    ]
+                },
+                "2025-02": {
+                    "Conference": [
+                        {
+                            "name": "Mental Health Innovations Conference",
+                            "date": "2025-02-20",
+                            "location": {
+                                "latitude": 0.3157,
+                                "longitude": 32.5829,
+                                "address": "Serena Hotel, Kampala, Uganda",
+                                "googleMapsLink": "https://www.google.com/maps?q=0.3157,32.5829",
+                                "wazeLink": "https://waze.com/ul?q=0.3157,32.5829"
+                            },
+                            "description": "Exploring innovative approaches to mental health care.",
+                            "image": "mental-health-conference.jpg"
+                        }
+                    ],
+                    "Workshop": [
+                        {
+                            "name": "Mindfulness and Meditation Workshop",
+                            "date": "2025-02-25",
+                            "location": {
+                                "latitude": 0.3168,
+                                "longitude": 32.5835,
+                                "address": "Makerere University, Kampala, Uganda",
+                                "googleMapsLink": "https://www.google.com/maps?q=0.3168,32.5835",
+                                "wazeLink": "https://waze.com/ul?q=0.3168,32.5835"
+                            },
+                            "description": "Practical techniques to improve focus and reduce stress.",
+                            "image": "mindfulness-workshop.jpg"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}
+```
