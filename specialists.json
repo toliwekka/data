@@ -5,31 +5,6 @@
                 "Psychiatrists": {
                     "Male": [
                         {
-                            "name": "Dr. Martin Kabanda",
-                            "specialty": "Psychiatrist",
-                            "qualifications": "MD Psychiatry",
-                            "location": {
-                                "latitude": 0.052,
-                                "longitude": 32.46,
-                                "address": "2 Victoria Mall Rd, Entebbe, Uganda",
-                                "googleMapsLink": "https://www.google.com/maps?q=0.052,32.460"
-                            },
-                            "phone": "+256 783 654321",
-                            "bio": "Dr. Martin Kabanda specializes in psychotic disorders and schizophrenia.",
-                            "image": "/images/Specialists/martin_kabanda.jpg",
-                            "rating": 4.5,
-                            "languagesSpoken": ["English", "Luganda"],
-                            "workingHours": {
-                                "Monday": "8:00 AM - 5:00 PM",
-                                "Tuesday": "8:00 AM - 5:00 PM",
-                                "Wednesday": "8:00 AM - 5:00 PM",
-                                "Thursday": "8:00 AM - 5:00 PM",
-                                "Friday": "8:00 AM - 5:00 PM",
-                                "Saturday": "Closed",
-                                "Sunday": "Closed"
-                            }
-                        },
-                        {
                             "name": "Dr. James Kakooza",
                             "specialty": "Psychiatrist",
                             "qualifications": "MD Psychiatry",
@@ -53,9 +28,84 @@
                                 "Saturday": "Closed",
                                 "Sunday": "Closed"
                             }
+                        },
+                        {
+                            "name": "Dr. Martin Kabanda",
+                            "specialty": "Psychiatrist",
+                            "qualifications": "MD Psychiatry",
+                            "location": {
+                                "latitude": 0.052,
+                                "longitude": 32.460,
+                                "address": "2 Victoria Mall Rd, Entebbe, Uganda",
+                                "googleMapsLink": "https://www.google.com/maps?q=0.052,32.460"
+                            },
+                            "phone": "+256 783 654321",
+                            "bio": "Dr. Martin Kabanda specializes in psychotic disorders and schizophrenia.",
+                            "image": "/images/Specialists/martin_kabanda.jpg",
+                            "rating": 4.5,
+                            "languagesSpoken": ["English", "Luganda"],
+                            "workingHours": {
+                                "Monday": "8:00 AM - 5:00 PM",
+                                "Tuesday": "8:00 AM - 5:00 PM",
+                                "Wednesday": "8:00 AM - 5:00 PM",
+                                "Thursday": "8:00 AM - 5:00 PM",
+                                "Friday": "8:00 AM - 5:00 PM",
+                                "Saturday": "Closed",
+                                "Sunday": "Closed"
+                            }
+                        },
+                        {
+                            "name": "Dr. Isaac Muwonge",
+                            "specialty": "Psychiatrist",
+                            "qualifications": "MD Psychiatry",
+                            "location": {
+                                "latitude": 0.051,
+                                "longitude": 32.467,
+                                "address": "6 Nambi Rd, Entebbe, Uganda",
+                                "googleMapsLink": "https://www.google.com/maps?q=0.051,32.467"
+                            },
+                            "phone": "+256 756 890123",
+                            "bio": "Dr. Isaac Muwonge focuses on adult psychiatry, particularly mood disorders.",
+                            "image": "/images/Specialists/isaac_muwonge.jpg",
+                            "rating": 4.4,
+                            "languagesSpoken": ["English", "Luganda"],
+                            "workingHours": {
+                                "Monday": "9:00 AM - 4:00 PM",
+                                "Tuesday": "9:00 AM - 4:00 PM",
+                                "Wednesday": "9:00 AM - 4:00 PM",
+                                "Thursday": "9:00 AM - 4:00 PM",
+                                "Friday": "9:00 AM - 4:00 PM",
+                                "Saturday": "Closed",
+                                "Sunday": "Closed"
+                            }
                         }
                     ],
                     "Female": [
+                        {
+                            "name": "Dr. Agnes Kato",
+                            "specialty": "Psychiatrist",
+                            "qualifications": "MD Psychiatry",
+                            "location": {
+                                "latitude": 0.060,
+                                "longitude": 32.485,
+                                "address": "5 Victoria Rd, Entebbe, Uganda",
+                                "googleMapsLink": "https://www.google.com/maps?q=0.060,32.485"
+                            },
+                            "phone": "+256 792 789456",
+                            "bio": "Dr. Agnes Kato specializes in general psychiatry and mental health for adults.",
+                            "image": "/images/Specialists/agnes_kato.jpg",
+                            "rating": 4.6,
+                            "languagesSpoken": ["English", "Luganda"],
+                            "workingHours": {
+                                "Monday": "8:00 AM - 5:00 PM",
+                                "Tuesday": "8:00 AM - 5:00 PM",
+                                "Wednesday": "8:00 AM - 5:00 PM",
+                                "Thursday": "8:00 AM - 5:00 PM",
+                                "Friday": "8:00 AM - 5:00 PM",
+                                "Saturday": "Closed",
+                                "Sunday": "Closed"
+                            }
+                        },
                         {
                             "name": "Dr. Evelyn Nyakato",
                             "specialty": "Psychiatrist",
@@ -82,26 +132,26 @@
                             }
                         },
                         {
-                            "name": "Dr. Agnes Kato",
+                            "name": "Dr. Sarah Atukwase",
                             "specialty": "Psychiatrist",
                             "qualifications": "MD Psychiatry",
                             "location": {
-                                "latitude": 0.060,
-                                "longitude": 32.485,
-                                "address": "5 Victoria Rd, Entebbe, Uganda",
-                                "googleMapsLink": "https://www.google.com/maps?q=0.060,32.485"
+                                "latitude": 0.050,
+                                "longitude": 32.460,
+                                "address": "7 Garden Park Rd, Entebbe, Uganda",
+                                "googleMapsLink": "https://www.google.com/maps?q=0.050,32.460"
                             },
-                            "phone": "+256 792 789456",
-                            "bio": "Dr. Agnes Kato specializes in general psychiatry and mental health for adults.",
-                            "image": "/images/Specialists/agnes_kato.jpg",
-                            "rating": 4.6,
-                            "languagesSpoken": ["English", "Luganda"],
+                            "phone": "+256 786 234567",
+                            "bio": "Dr. Sarah Atukwase specializes in anxiety and stress management.",
+                            "image": "/images/Specialists/sarah_atukwase.jpg",
+                            "rating": 4.5,
+                            "languagesSpoken": ["English", "Luganda", "Swahili"],
                             "workingHours": {
-                                "Monday": "8:00 AM - 5:00 PM",
-                                "Tuesday": "8:00 AM - 5:00 PM",
-                                "Wednesday": "8:00 AM - 5:00 PM",
-                                "Thursday": "8:00 AM - 5:00 PM",
-                                "Friday": "8:00 AM - 5:00 PM",
+                                "Monday": "9:00 AM - 5:00 PM",
+                                "Tuesday": "9:00 AM - 5:00 PM",
+                                "Wednesday": "9:00 AM - 5:00 PM",
+                                "Thursday": "9:00 AM - 5:00 PM",
+                                "Friday": "9:00 AM - 5:00 PM",
                                 "Saturday": "Closed",
                                 "Sunday": "Closed"
                             }
@@ -110,12 +160,12 @@
                 }
             },
             "Kampala": {
-                "Dermatologists": {
+                "Psychiatrists": {
                     "Male": [
                         {
-                            "name": "Dr. John Barya",
-                            "specialty": "Dermatologist",
-                            "qualifications": "MD Dermatology",
+                            "name": "Dr. Joshua Olweny",
+                            "specialty": "Psychiatrist",
+                            "qualifications": "MD Psychiatry",
                             "location": {
                                 "latitude": 0.314,
                                 "longitude": 32.582,
@@ -123,8 +173,8 @@
                                 "googleMapsLink": "https://www.google.com/maps?q=0.314,32.582"
                             },
                             "phone": "+256 700 987654",
-                            "bio": "Dr. John Barya specializes in skin conditions like acne, eczema, and psoriasis.",
-                            "image": "/images/Specialists/john_barya.jpg",
+                            "bio": "Dr. Joshua Olweny specializes in treating anxiety, depression, and PTSD.",
+                            "image": "/images/Specialists/joshua_olweny.jpg",
                             "rating": 4.8,
                             "languagesSpoken": ["English", "Luganda"],
                             "workingHours": {
@@ -136,13 +186,38 @@
                                 "Saturday": "Closed",
                                 "Sunday": "Closed"
                             }
+                        },
+                        {
+                            "name": "Dr. Peter Ssemwanga",
+                            "specialty": "Psychiatrist",
+                            "qualifications": "MD Psychiatry",
+                            "location": {
+                                "latitude": 0.315,
+                                "longitude": 32.585,
+                                "address": "Kampala City Center, Kampala, Uganda",
+                                "googleMapsLink": "https://www.google.com/maps?q=0.315,32.585"
+                            },
+                            "phone": "+256 759 876543",
+                            "bio": "Dr. Peter Ssemwanga specializes in adult psychiatry and psychotherapies.",
+                            "image": "/images/Specialists/peter_ssemwanga.jpg",
+                            "rating": 4.6,
+                            "languagesSpoken": ["English", "Luganda"],
+                            "workingHours": {
+                                "Monday": "9:00 AM - 5:00 PM",
+                                "Tuesday": "9:00 AM - 5:00 PM",
+                                "Wednesday": "9:00 AM - 5:00 PM",
+                                "Thursday": "9:00 AM - 5:00 PM",
+                                "Friday": "9:00 AM - 5:00 PM",
+                                "Saturday": "Closed",
+                                "Sunday": "Closed"
+                            }
                         }
                     ],
                     "Female": [
                         {
                             "name": "Dr. Julia Nantege",
-                            "specialty": "Dermatologist",
-                            "qualifications": "MD Dermatology",
+                            "specialty": "Psychiatrist",
+                            "qualifications": "MD Psychiatry",
                             "location": {
                                 "latitude": 0.318,
                                 "longitude": 32.585,
@@ -150,7 +225,7 @@
                                 "googleMapsLink": "https://www.google.com/maps?q=0.318,32.585"
                             },
                             "phone": "+256 701 234567",
-                            "bio": "Dr. Julia Nantege offers treatments for skin cancers and cosmetic dermatology.",
+                            "bio": "Dr. Julia Nantege offers treatments for mental health conditions including depression and mood disorders.",
                             "image": "/images/Specialists/julia_nantege.jpg",
                             "rating": 4.6,
                             "languagesSpoken": ["English", "Luganda", "Swahili"],
@@ -160,6 +235,31 @@
                                 "Wednesday": "9:00 AM - 5:00 PM",
                                 "Thursday": "9:00 AM - 5:00 PM",
                                 "Friday": "9:00 AM - 5:00 PM",
+                                "Saturday": "Closed",
+                                "Sunday": "Closed"
+                            }
+                        },
+                        {
+                            "name": "Dr. Olivia Muwanga",
+                            "specialty": "Psychiatrist",
+                            "qualifications": "MD Psychiatry",
+                            "location": {
+                                "latitude": 0.317,
+                                "longitude": 32.580,
+                                "address": "Luwum St, Kampala, Uganda",
+                                "googleMapsLink": "https://www.google.com/maps?q=0.317,32.580"
+                            },
+                            "phone": "+256 708 456789",
+                            "bio": "Dr. Olivia Muwanga focuses on treating eating disorders and body dysmorphia.",
+                            "image": "/images/Specialists/olivia_muwanga.jpg",
+                            "rating": 4.7,
+                            "languagesSpoken": ["English", "Luganda", "Swahili"],
+                            "workingHours": {
+                                "Monday": "9:00 AM - 6:00 PM",
+                                "Tuesday": "9:00 AM - 6:00 PM",
+                                "Wednesday": "9:00 AM - 6:00 PM",
+                                "Thursday": "9:00 AM - 6:00 PM",
+                                "Friday": "9:00 AM - 6:00 PM",
                                 "Saturday": "Closed",
                                 "Sunday": "Closed"
                             }
