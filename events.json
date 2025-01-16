@@ -1,74 +1,584 @@
-```json
 {
-    "events": {
-        "byCity": {
-            "Kampala": {
-                "2025-01": {
-                    "Workshop": [
-                        {
-                            "name": "Unlocking Youth Potential",
-                            "date": "2025-01-10 16:00",
-                            "location": {
-                                "latitude": 0.3136,
-                                "longitude": 32.5825,
-                                "address": "Kaazi Scout National Camping Ground, Kampala, Uganda",
-                                "googleMapsLink": "https://www.google.com/maps?q=0.2989407,32.6101184",
-                                "wazeLink": "https://waze.com/ul?q=0.2989407,32.6101184"
-                            },
-                            "description": "Enhancing Emotional Intelligence and Resilience Through PuzzleWars.",
-                            "image": "unlocking-youth-potential.jpg"
-                        }
-                    ],
-                    "Seminar": [
-                        {
-                            "name": "Counseling and Therapy Seminar",
-                            "date": "2025-01-15",
-                            "location": {
-                                "latitude": 0.3292,
-                                "longitude": 32.5772,
-                                "address": "Kampala International University, Kampala, Uganda",
-                                "googleMapsLink": "https://www.google.com/maps?q=0.3292,32.5772",
-                                "wazeLink": "https://waze.com/ul?q=0.3292,32.5772"
-                            },
-                            "description": "A seminar aimed at providing guidance on mental health counseling techniques.",
-                            "image": "counseling-seminar.jpg"
-                        }
-                    ]
-                },
-                "2025-02": {
-                    "Conference": [
-                        {
-                            "name": "Mental Health Innovations Conference",
-                            "date": "2025-02-20",
-                            "location": {
-                                "latitude": 0.3157,
-                                "longitude": 32.5829,
-                                "address": "Serena Hotel, Kampala, Uganda",
-                                "googleMapsLink": "https://www.google.com/maps?q=0.3157,32.5829",
-                                "wazeLink": "https://waze.com/ul?q=0.3157,32.5829"
-                            },
-                            "description": "Exploring innovative approaches to mental health care.",
-                            "image": "mental-health-conference.jpg"
-                        }
-                    ],
-                    "Workshop": [
-                        {
-                            "name": "Mindfulness and Meditation Workshop",
-                            "date": "2025-02-25",
-                            "location": {
-                                "latitude": 0.3168,
-                                "longitude": 32.5835,
-                                "address": "Makerere University, Kampala, Uganda",
-                                "googleMapsLink": "https://www.google.com/maps?q=0.3168,32.5835",
-                                "wazeLink": "https://waze.com/ul?q=0.3168,32.5835"
-                            },
-                            "description": "Practical techniques to improve focus and reduce stress.",
-                            "image": "mindfulness-workshop.jpg"
-                        }
-                    ]
+  "events": {
+    "byCity": {
+      "Kampala": {
+        "2025-01": {
+          "Workshop": [
+            {
+              "name": "Mindfulness for Professionals",
+              "date": "2025-01-10 14:00",
+              "location": {
+                "latitude": 0.3135,
+                "longitude": 32.5828,
+                "address": "Nakasero Towers, Kampala, Uganda",
+                "googleMapsLink": "https://www.google.com/maps?q=0.3135,32.5828",
+                "wazeLink": "https://waze.com/ul?q=0.3135,32.5828"
+              },
+              "description": "Learn how mindfulness can enhance productivity and reduce stress.",
+              "theme": "Enhancing Workplace Wellness",
+              "speakers": [
+                {
+                  "name": "Dr. Lydia Nakimuli",
+                  "bio": "Workplace wellness expert with 10+ years of experience, helping organizations improve employee well-being through mindfulness and stress reduction strategies."
                 }
+              ],
+              "attendees": {
+                "targetAudience": "Corporate professionals, managers, and employees who are looking to reduce stress and improve productivity.",
+                "expectedCount": 200
+              },
+              "image": "mindfulness-professionals.jpg"
+            },
+            {
+              "name": "Teen Mental Health Bootcamp",
+              "date": "2025-01-15 10:00",
+              "location": {
+                "latitude": 0.3142,
+                "longitude": 32.5831,
+                "address": "Lugogo Indoor Stadium, Kampala, Uganda",
+                "googleMapsLink": "https://www.google.com/maps?q=0.3142,32.5831",
+                "wazeLink": "https://waze.com/ul?q=0.3142,32.5831"
+              },
+              "description": "Empowering teens with tools to manage stress and anxiety through interactive workshops and expert guidance.",
+              "theme": "Youth Mental Health",
+              "speakers": [
+                {
+                  "name": "Ms. Janet Tumwebaze",
+                  "bio": "Licensed clinical psychologist specializing in youth mental health. Focuses on helping teenagers navigate mental health challenges, such as stress and anxiety."
+                }
+              ],
+              "attendees": {
+                "targetAudience": "Teenagers and their guardians who are seeking tools and resources to improve mental wellness in the face of modern pressures.",
+                "expectedCount": 150
+              },
+              "image": "teen-mental-health.jpg"
             }
+          ],
+          "Seminar": [
+            {
+              "name": "Breaking the Mental Health Stigma",
+              "date": "2025-02-10 12:00",
+              "location": {
+                "latitude": 0.3148,
+                "longitude": 32.5842,
+                "address": "Kampala International Conference Center, Kampala, Uganda",
+                "googleMapsLink": "https://www.google.com/maps?q=0.3148,32.5842",
+                "wazeLink": "https://waze.com/ul?q=0.3148,32.5842"
+              },
+              "description": "A deep dive into how mental health stigma affects individuals and communities, and how we can reduce it through education and awareness.",
+              "theme": "Ending the Silence",
+              "speakers": [
+                {
+                  "name": "Dr. Andrew Kaggwa",
+                  "bio": "A passionate advocate for mental health awareness, Dr. Kaggwa has dedicated his career to breaking the stigma surrounding mental health in African societies."
+                }
+              ],
+              "attendees": {
+                "targetAudience": "General public, NGOs, mental health professionals, and anyone looking to contribute to reducing mental health stigma.",
+                "expectedCount": 300
+              },
+              "image": "breaking-stigma.jpg"
+            },
+            {
+              "name": "Sustainable Living and Mental Wellness",
+              "date": "2025-02-12 10:00",
+              "location": {
+                "latitude": 0.3155,
+                "longitude": 32.5855,
+                "address": "Green City Convention Center, Kampala, Uganda",
+                "googleMapsLink": "https://www.google.com/maps?q=0.3155,32.5855",
+                "wazeLink": "https://waze.com/ul?q=0.3155,32.5855"
+              },
+              "description": "Exploring the intersection of sustainability and mental well-being, with workshops on green living and reducing environmental stress.",
+              "theme": "Eco-Therapy",
+              "speakers": [
+                {
+                  "name": "Prof. Michael Kasozi",
+                  "bio": "Environmental psychologist with a focus on eco-therapy and sustainability's impact on mental health."
+                }
+              ],
+              "attendees": {
+                "targetAudience": "Eco-conscious individuals, mental health advocates, and anyone interested in integrating sustainability into their mental wellness practices.",
+                "expectedCount": 250
+              },
+              "image": "sustainable-living.jpg"
+            },
+            {
+              "name": "Effective Communication in Mental Health",
+              "date": "2025-02-20 09:00",
+              "location": {
+                "latitude": 0.3162,
+                "longitude": 32.5864,
+                "address": "Kampala Conference Hall, Kampala, Uganda",
+                "googleMapsLink": "https://www.google.com/maps?q=0.3162,32.5864",
+                "wazeLink": "https://waze.com/ul?q=0.3162,32.5864"
+              },
+              "description": "A workshop for mental health professionals and caregivers to improve communication strategies for better patient outcomes.",
+              "theme": "Communication in Care",
+              "speakers": [
+                {
+                  "name": "Dr. Emma Kyaligonza",
+                  "bio": "Communication expert in mental health, focusing on helping professionals engage patients in a more empathetic and effective manner."
+                }
+              ],
+              "attendees": {
+                "targetAudience": "Mental health professionals, counselors, caregivers, and communication specialists.",
+                "expectedCount": 150
+              },
+              "image": "effective-communication.jpg"
+            },
+            {
+              "name": "Mindfulness for Caregivers",
+              "date": "2025-02-25 10:00",
+              "location": {
+                "latitude": 0.3171,
+                "longitude": 32.5878,
+                "address": "Kampala Wellness Center, Kampala, Uganda",
+                "googleMapsLink": "https://www.google.com/maps?q=0.3171,32.5878",
+                "wazeLink": "https://waze.com/ul?q=0.3171,32.5878"
+              },
+              "description": "Mindfulness practices tailored for caregivers to reduce stress and enhance caregiving effectiveness.",
+              "theme": "Caregiver Wellbeing",
+              "speakers": [
+                {
+                  "name": "Dr. Anne Kaggwa",
+                  "bio": "Psychologist and mindfulness expert with a focus on supporting caregivers in high-stress roles."
+                }
+              ],
+              "attendees": {
+                "targetAudience": "Caregivers, social workers, and mental health professionals.",
+                "expectedCount": 100
+              },
+              "image": "mindfulness-caregivers.jpg"
+            },
+            {
+              "name": "Mental Health First Aid for Teachers",
+              "date": "2025-03-01 11:00",
+              "location": {
+                "latitude": 0.3180,
+                "longitude": 32.5890,
+                "address": "Kampala Teachers' Resource Center, Kampala, Uganda",
+                "googleMapsLink": "https://www.google.com/maps?q=0.3180,32.5890",
+                "wazeLink": "https://waze.com/ul?q=0.3180,32.5890"
+              },
+              "description": "A course designed for educators to recognize mental health issues in students and provide first-response support.",
+              "theme": "Education and Mental Health",
+              "speakers": [
+                {
+                  "name": "Ms. Sylvia Nabukenya",
+                  "bio": "Mental health trainer and educator, focusing on equipping teachers with skills to support students facing mental health challenges."
+                }
+              ],
+              "attendees": {
+                "targetAudience": "Teachers, school counselors, and administrators.",
+                "expectedCount": 120
+              },
+              "image": "mental-health-first-aid.jpg"
+            },
+            {
+              "name": "Therapeutic Art for Mental Health",
+              "date": "2025-03-03 14:00",
+              "location": {
+                "latitude": 0.3190,
+                "longitude": 32.5901,
+                "address": "Kampala Art Center, Kampala, Uganda",
+                "googleMapsLink": "https://www.google.com/maps?q=0.3190,32.5901",
+                "wazeLink": "https://waze.com/ul?q=0.3190,32.5901"
+              },
+              "description": "Art therapy workshops to promote mental healing and self-expression for individuals facing emotional stress.",
+              "theme": "Creative Healing",
+              "speakers": [
+                {
+                  "name": "Ms. Patricia Nansubuga",
+                  "bio": "Art therapist with over 15 years of experience using art to help individuals process trauma and emotional pain."
+                }
+              ],
+              "attendees": {
+                "targetAudience": "Anyone interested in creative therapies, mental health professionals, and individuals seeking healing through art.",
+                "expectedCount": 80
+              },
+              "image": "therapeutic-art.jpg"
+            },
+            {
+              "name": "Stress Management for Students",
+              "date": "2025-03-08 09:00",
+              "location": {
+                "latitude": 0.3200,
+                "longitude": 32.5912,
+                "address": "University of Kampala Auditorium, Kampala, Uganda",
+                "googleMapsLink": "https://www.google.com/maps?q=0.3200,32.5912",
+                "wazeLink": "https://waze.com/ul?q=0.3200,32.5912"
+              },
+              "description": "A workshop focused on helping students cope with academic pressures and stress management techniques.",
+              "theme": "Academic Wellness",
+              "speakers": [
+                {
+                  "name": "Mr. Daniel Ssali",
+                  "bio": "Mental health counselor specializing in stress management for young adults in academic settings."
+                }
+              ],
+              "attendees": {
+                "targetAudience": "University students, academic staff, and educational psychologists.",
+                "expectedCount": 150
+              },
+              "image": "stress-management-students.jpg"
+            },
+            {
+              "name": "Digital Detox for Mental Health",
+              "date": "2025-03-12 10:00",
+              "location": {
+                "latitude": 0.3212,
+                "longitude": 32.5924,
+                "address": "Kampala Digital Wellness Center, Kampala, Uganda",
+                "googleMapsLink": "https://www.google.com/maps?q=0.3212,32.5924",
+                "wazeLink": "https://waze.com/ul?q=0.3212,32.5924"
+              },
+              "description": "Helping individuals disconnect from digital devices and reconnect with their mental and emotional wellbeing.",
+              "theme": "Digital Wellbeing",
+              "speakers": [
+                {
+                  "name": "Dr. Samuel Kaziwi",
+                  "bio": "Expert in digital detox and mental health, helping individuals reduce technology-related stress and enhance personal well-being."
+                }
+              ],
+              "attendees": {
+                "targetAudience": "Individuals feeling overwhelmed by digital overstimulation, mental health advocates, and anyone interested in reducing screen time for better mental wellness.",
+                "expectedCount": 200
+              },
+              "image": "digital-detox.jpg"
+            }
+          ]
         }
+      },
+      "Gulu": {
+        "2025-03": {
+          "Conference": [
+            {
+              "name": "Trauma Recovery Conference",
+              "date": "2025-03-05 09:00",
+              "location": {
+                "latitude": 2.7723,
+                "longitude": 32.2961,
+                "address": "Gulu District Hall, Gulu, Uganda",
+                "googleMapsLink": "https://www.google.com/maps?q=2.7723,32.2961",
+                "wazeLink": "https://waze.com/ul?q=2.7723,32.2961"
+              },
+              "description": "Focusing on post-conflict trauma recovery, this conference will bring together experts in mental health and peacebuilding to discuss strategies for community healing.",
+              "theme": "Healing Together",
+              "speakers": [
+                {
+                  "name": "Dr. Rebecca Laker",
+                  "bio": "A specialist in trauma recovery, Dr. Laker has worked extensively with communities affected by conflict, promoting resilience and peacebuilding initiatives."
+                }
+              ],
+              "attendees": {
+                "targetAudience": "Community leaders, health workers, counselors, and individuals affected by trauma seeking healing and support.",
+                "expectedCount": 500
+              },
+              "image": "trauma-recovery.jpg"
+            },
+            {
+              "name": "Youth Leadership for Peace",
+              "date": "2025-03-10 09:00",
+              "location": {
+                "latitude": 2.7730,
+                "longitude": 32.2972,
+                "address": "Gulu Youth Center, Gulu, Uganda",
+                "googleMapsLink": "https://www.google.com/maps?q=2.7730,32.2972",
+                "wazeLink": "https://waze.com/ul?q=2.7730,32.2972"
+              },
+              "description": "Empowering young leaders to become advocates for peace and reconciliation in post-conflict settings.",
+              "theme": "Youth Leadership",
+              "speakers": [
+                {
+                  "name": "Mr. David Okello",
+                  "bio": "Youth empowerment advocate focused on post-conflict leadership training and peace initiatives."
+                }
+              ],
+              "attendees": {
+                "targetAudience": "Youth leaders, educators, and peacebuilders.",
+                "expectedCount": 200
+              },
+              "image": "youth-leadership-peace.jpg"
+            },
+            {
+              "name": "Mental Health Advocacy for Communities",
+              "date": "2025-03-15 08:30",
+              "location": {
+                "latitude": 2.7745,
+                "longitude": 32.2989,
+                "address": "Gulu Community Hall, Gulu, Uganda",
+                "googleMapsLink": "https://www.google.com/maps?q=2.7745,32.2989",
+                "wazeLink": "https://waze.com/ul?q=2.7745,32.2989"
+              },
+              "description": "A workshop focused on creating community-based mental health support networks and advocacy initiatives.",
+              "theme": "Community Mental Health",
+              "speakers": [
+                {
+                  "name": "Mr. Joseph Ochieng",
+                  "bio": "Mental health advocate and community organizer focused on building local support systems."
+                }
+              ],
+              "attendees": {
+                "targetAudience": "Community leaders, NGOs, and mental health professionals.",
+                "expectedCount": 150
+              },
+              "image": "mental-health-advocacy.jpg"
+            },
+            {
+              "name": "Integrating Mental Health into Primary Healthcare",
+              "date": "2025-03-20 10:00",
+              "location": {
+                "latitude": 2.7760,
+                "longitude": 32.2999,
+                "address": "Gulu Health Center, Gulu, Uganda",
+                "googleMapsLink": "https://www.google.com/maps?q=2.7760,32.2999",
+                "wazeLink": "https://waze.com/ul?q=2.7760,32.2999"
+              },
+              "description": "Training healthcare workers on how to incorporate mental health services into primary healthcare practices.",
+              "theme": "Mental Health in Healthcare",
+              "speakers": [
+                {
+                  "name": "Dr. Janet Nalubega",
+                  "bio": "Public health expert focusing on integrating mental health care into general healthcare systems."
+                }
+              ],
+              "attendees": {
+                "targetAudience": "Health professionals, clinic staff, and mental health experts.",
+                "expectedCount": 300
+              },
+              "image": "mental-health-primary-care.jpg"
+            }
+          ]
+        }
+      },
+      "Mbarara": {
+        "2025-03": {
+          "Workshop": [
+            {
+              "name": "Mental Health for Rural Communities",
+              "date": "2025-03-02 09:00",
+              "location": {
+                "latitude": 0.5950,
+                "longitude": 30.6578,
+                "address": "Mbarara District Hall, Mbarara, Uganda",
+                "googleMapsLink": "https://www.google.com/maps?q=0.5950,30.6578",
+                "wazeLink": "https://waze.com/ul?q=0.5950,30.6578"
+              },
+              "description": "Addressing mental health challenges in rural settings and how to build support networks in these areas.",
+              "theme": "Rural Mental Health",
+              "speakers": [
+                {
+                  "name": "Dr. Henry Akena",
+                  "bio": "Mental health expert specializing in rural health interventions and community outreach."
+                }
+              ],
+              "attendees": {
+                "targetAudience": "Healthcare workers, community leaders, and individuals from rural areas.",
+                "expectedCount": 150
+              },
+              "image": "rural-mental-health.jpg"
+            },
+            {
+              "name": "Building Resilience in Rural Youth",
+              "date": "2025-03-05 10:00",
+              "location": {
+                "latitude": 0.5963,
+                "longitude": 30.6602,
+                "address": "Mbarara Youth Center, Mbarara, Uganda",
+                "googleMapsLink": "https://www.google.com/maps?q=0.5963,30.6602",
+                "wazeLink": "https://waze.com/ul?q=0.5963,30.6602"
+              },
+              "description": "Workshops focused on building resilience in rural youth, empowering them to cope with life's challenges and build a positive future.",
+              "theme": "Youth Resilience",
+              "speakers": [
+                {
+                  "name": "Mr. Paul Otim",
+                  "bio": "Youth empowerment specialist working with rural communities to enhance emotional strength and resilience."
+                }
+              ],
+              "attendees": {
+                "targetAudience": "Rural youth, community organizers, and educators.",
+                "expectedCount": 200
+              },
+              "image": "youth-resilience.jpg"
+            },
+            {
+              "name": "Mental Health Education in Schools",
+              "date": "2025-03-10 08:30",
+              "location": {
+                "latitude": 0.5971,
+                "longitude": 30.6635,
+                "address": "Mbarara School District Auditorium, Mbarara, Uganda",
+                "googleMapsLink": "https://www.google.com/maps?q=0.5971,30.6635",
+                "wazeLink": "https://waze.com/ul?q=0.5971,30.6635"
+              },
+              "description": "Training teachers on recognizing mental health issues in students and providing basic mental health support.",
+              "theme": "Mental Health in Education",
+              "speakers": [
+                {
+                  "name": "Ms. Elizabeth Akiteng",
+                  "bio": "Education consultant and mental health advocate, focusing on integrating mental health education into schools."
+                }
+              ],
+              "attendees": {
+                "targetAudience": "Teachers, school administrators, and mental health professionals.",
+                "expectedCount": 180
+              },
+              "image": "mental-health-education-schools.jpg"
+            },
+            {
+              "name": "Community Healing through Art",
+              "date": "2025-03-15 10:00",
+              "location": {
+                "latitude": 0.5984,
+                "longitude": 30.6657,
+                "address": "Mbarara Art Center, Mbarara, Uganda",
+                "googleMapsLink": "https://www.google.com/maps?q=0.5984,30.6657",
+                "wazeLink": "https://waze.com/ul?q=0.5984,30.6657"
+              },
+              "description": "Using art as a therapeutic tool for community healing and mental health recovery.",
+              "theme": "Art Therapy",
+              "speakers": [
+                {
+                  "name": "Ms. Sarah Nyamwenge",
+                  "bio": "Art therapist specializing in community-based healing initiatives."
+                }
+              ],
+              "attendees": {
+                "targetAudience": "Art lovers, therapists, and individuals seeking healing through creative expression.",
+                "expectedCount": 100
+              },
+              "image": "community-art-healing.jpg"
+            },
+            {
+              "name": "Digital Literacy for Mental Health",
+              "date": "2025-03-20 11:00",
+              "location": {
+                "latitude": 0.5995,
+                "longitude": 30.6681,
+                "address": "Mbarara Digital Center, Mbarara, Uganda",
+                "googleMapsLink": "https://www.google.com/maps?q=0.5995,30.6681",
+                "wazeLink": "https://waze.com/ul?q=0.5995,30.6681"
+              },
+              "description": "Exploring how digital literacy can be used to support mental health awareness and services in rural communities.",
+              "theme": "Digital Wellness",
+              "speakers": [
+                {
+                  "name": "Mr. Michael Baziira",
+                  "bio": "Technology and mental health expert, focusing on using technology to increase access to mental health resources in underserved areas."
+                }
+              ],
+              "attendees": {
+                "targetAudience": "Community leaders, health workers, and technology advocates.",
+                "expectedCount": 150
+              },
+              "image": "digital-literacy-mental-health.jpg"
+            }
+          ]
+        }
+      },
+      "Entebbe": {
+        "2025-03": {
+          "Seminar": [
+            {
+              "name": "Mental Health in Tourism Industry",
+              "date": "2025-03-07 10:00",
+              "location": {
+                "latitude": 0.3218,
+                "longitude": 32.4462,
+                "address": "Entebbe Hotel Conference Center, Entebbe, Uganda",
+                "googleMapsLink": "https://www.google.com/maps?q=0.3218,32.4462",
+                "wazeLink": "https://waze.com/ul?q=0.3218,32.4462"
+              },
+              "description": "Exploring the impact of tourism and travel on mental health, and strategies for supporting tourism professionals' well-being.",
+              "theme": "Tourism and Mental Health",
+              "speakers": [
+                {
+                  "name": "Dr. Ivan Mukasa",
+                  "bio": "Tourism expert specializing in mental health support for workers in the hospitality and travel industry."
+                }
+              ],
+              "attendees": {
+                "targetAudience": "Tourism professionals, hotel managers, and mental health professionals.",
+                "expectedCount": 250
+              },
+              "image": "mental-health-tourism.jpg"
+            },
+            {
+              "name": "Psychosocial Support for Refugees",
+              "date": "2025-03-10 09:00",
+              "location": {
+                "latitude": 0.3220,
+                "longitude": 32.4483,
+                "address": "Entebbe Refugee Support Center, Entebbe, Uganda",
+                "googleMapsLink": "https://www.google.com/maps?q=0.3220,32.4483",
+                "wazeLink": "https://waze.com/ul?q=0.3220,32.4483"
+              },
+              "description": "Providing mental health and psychosocial support to refugees and displaced persons, with a focus on trauma recovery.",
+              "theme": "Refugee Mental Health",
+              "speakers": [
+                {
+                  "name": "Ms. Grace Ssemwanga",
+                  "bio": "Social worker and refugee support specialist focusing on mental health challenges faced by displaced persons."
+                }
+              ],
+              "attendees": {
+                "targetAudience": "Refugee workers, NGOs, mental health professionals, and volunteers.",
+                "expectedCount": 200
+              },
+              "image": "psychosocial-support.jpg"
+            },
+            {
+              "name": "Mental Health in the Workplace",
+              "date": "2025-03-15 10:00",
+              "location": {
+                "latitude": 0.3235,
+                "longitude": 32.4490,
+                "address": "Entebbe Business Conference Hall, Entebbe, Uganda",
+                "googleMapsLink": "https://www.google.com/maps?q=0.3235,32.4490",
+                "wazeLink": "https://waze.com/ul?q=0.3235,32.4490"
+              },
+              "description": "Helping employers and employees build a supportive work environment for mental health and wellness.",
+              "theme": "Workplace Wellness",
+              "speakers": [
+                {
+                  "name": "Ms. Fiona Namaganda",
+                  "bio": "Human resources consultant specializing in integrating mental health support in the workplace."
+                }
+              ],
+              "attendees": {
+                "targetAudience": "Employers, HR managers, and employees seeking to improve workplace mental wellness.",
+                "expectedCount": 150
+              },
+              "image": "workplace-mental-health.jpg"
+            },
+            {
+              "name": "Managing Mental Health during Crisis",
+              "date": "2025-03-18 09:00",
+              "location": {
+                "latitude": 0.3247,
+                "longitude": 32.4511,
+                "address": "Entebbe Crisis Management Center, Entebbe, Uganda",
+                "googleMapsLink": "https://www.google.com/maps?q=0.3247,32.4511",
+                "wazeLink": "https://waze.com/ul?q=0.3247,32.4511"
+              },
+              "description": "Training for mental health professionals and crisis workers on managing mental health during and after a crisis or disaster.",
+              "theme": "Crisis Mental Health",
+              "speakers": [
+                {
+                  "name": "Dr. Lucy Nakibuuka",
+                  "bio": "Crisis intervention expert, helping communities cope with the mental health impacts of disasters."
+                }
+              ],
+              "attendees": {
+                "targetAudience": "Crisis management teams, mental health professionals, and disaster relief workers.",
+                "expectedCount": 180
+              },
+              "image": "crisis-mental-health.jpg"
+            }
+          ]
+        }
+      }
     }
+  }
 }
-```
