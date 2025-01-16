@@ -16,7 +16,7 @@
                             },
                             "phone": "+256 784 654322",
                             "bio": "Dr. James Kakooza specializes in child and adolescent psychiatry.",
-                            "image": "/images/Specialists/james_kakooza.jpg",
+                            "image": " james_kakooza.jpg",
                             "rating": 4.7,
                             "languagesSpoken": ["English", "Luganda", "Swahili"],
                             "workingHours": {
@@ -41,7 +41,7 @@
                             },
                             "phone": "+256 783 654321",
                             "bio": "Dr. Martin Kabanda specializes in psychotic disorders and schizophrenia.",
-                            "image": "/images/Specialists/martin_kabanda.jpg",
+                            "image": " martin_kabanda.jpg",
                             "rating": 4.5,
                             "languagesSpoken": ["English", "Luganda"],
                             "workingHours": {
@@ -66,7 +66,7 @@
                             },
                             "phone": "+256 756 890123",
                             "bio": "Dr. Isaac Muwonge focuses on adult psychiatry, particularly mood disorders.",
-                            "image": "/images/Specialists/isaac_muwonge.jpg",
+                            "image": " isaac_muwonge.jpg",
                             "rating": 4.4,
                             "languagesSpoken": ["English", "Luganda"],
                             "workingHours": {
@@ -93,7 +93,7 @@
                             },
                             "phone": "+256 792 789456",
                             "bio": "Dr. Agnes Kato specializes in general psychiatry and mental health for adults.",
-                            "image": "/images/Specialists/agnes_kato.jpg",
+                            "image": " agnes_kato.jpg",
                             "rating": 4.6,
                             "languagesSpoken": ["English", "Luganda"],
                             "workingHours": {
@@ -118,7 +118,7 @@
                             },
                             "phone": "+256 782 123456",
                             "bio": "Dr. Evelyn Nyakato offers treatment for mood and anxiety disorders.",
-                            "image": "/images/Specialists/evelyn_nyakato.jpg",
+                            "image": " evelyn_nyakato.jpg",
                             "rating": 4.7,
                             "languagesSpoken": ["English", "Luganda", "Swahili"],
                             "workingHours": {
@@ -143,7 +143,7 @@
                             },
                             "phone": "+256 786 234567",
                             "bio": "Dr. Sarah Atukwase specializes in anxiety and stress management.",
-                            "image": "/images/Specialists/sarah_atukwase.jpg",
+                            "image": " sarah_atukwase.jpg",
                             "rating": 4.5,
                             "languagesSpoken": ["English", "Luganda", "Swahili"],
                             "workingHours": {
@@ -174,7 +174,7 @@
                             },
                             "phone": "+256 700 987654",
                             "bio": "Dr. Joshua Olweny specializes in treating anxiety, depression, and PTSD.",
-                            "image": "/images/Specialists/joshua_olweny.jpg",
+                            "image": " joshua_olweny.jpg",
                             "rating": 4.8,
                             "languagesSpoken": ["English", "Luganda"],
                             "workingHours": {
@@ -192,14 +192,14 @@
                             "specialty": "Psychiatrist",
                             "qualifications": "MD Psychiatry",
                             "location": {
-                                "latitude": 0.315,
-                                "longitude": 32.585,
-                                "address": "Kampala City Center, Kampala, Uganda",
-                                "googleMapsLink": "https://www.google.com/maps?q=0.315,32.585"
+                                "latitude": 0.317,
+                                "longitude": 32.588,
+                                "address": "7 Makerere Hill Rd, Kampala, Uganda",
+                                "googleMapsLink": "https://www.google.com/maps?q=0.317,32.588"
                             },
-                            "phone": "+256 759 876543",
-                            "bio": "Dr. Peter Ssemwanga specializes in adult psychiatry and psychotherapies.",
-                            "image": "/images/Specialists/peter_ssemwanga.jpg",
+                            "phone": "+256 706 223344",
+                            "bio": "Dr. Peter Ssemwanga specializes in mental health for adolescents and young adults.",
+                            "image": " peter_ssemwanga.jpg",
                             "rating": 4.6,
                             "languagesSpoken": ["English", "Luganda"],
                             "workingHours": {
@@ -215,20 +215,20 @@
                     ],
                     "Female": [
                         {
-                            "name": "Dr. Julia Nantege",
+                            "name": "Dr. Pamela Sanyu",
                             "specialty": "Psychiatrist",
                             "qualifications": "MD Psychiatry",
                             "location": {
-                                "latitude": 0.318,
-                                "longitude": 32.585,
-                                "address": "Wandegeya, Kampala, Uganda",
-                                "googleMapsLink": "https://www.google.com/maps?q=0.318,32.585"
+                                "latitude": 0.313,
+                                "longitude": 32.580,
+                                "address": "10 Nile Ave, Kampala, Uganda",
+                                "googleMapsLink": "https://www.google.com/maps?q=0.313,32.580"
                             },
-                            "phone": "+256 701 234567",
-                            "bio": "Dr. Julia Nantege offers treatments for mental health conditions including depression and mood disorders.",
-                            "image": "/images/Specialists/julia_nantege.jpg",
-                            "rating": 4.6,
-                            "languagesSpoken": ["English", "Luganda", "Swahili"],
+                            "phone": "+256 772 567891",
+                            "bio": "Dr. Pamela Sanyu focuses on geriatric psychiatry and mental well-being of the elderly.",
+                            "image": " pamela_sanyu.jpg",
+                            "rating": 4.8,
+                            "languagesSpoken": ["English", "Luganda"],
                             "workingHours": {
                                 "Monday": "9:00 AM - 5:00 PM",
                                 "Tuesday": "9:00 AM - 5:00 PM",
@@ -240,26 +240,26 @@
                             }
                         },
                         {
-                            "name": "Dr. Olivia Muwanga",
+                            "name": "Dr. Irene Nakitende",
                             "specialty": "Psychiatrist",
                             "qualifications": "MD Psychiatry",
                             "location": {
-                                "latitude": 0.317,
-                                "longitude": 32.580,
-                                "address": "Luwum St, Kampala, Uganda",
-                                "googleMapsLink": "https://www.google.com/maps?q=0.317,32.580"
+                                "latitude": 0.312,
+                                "longitude": 32.581,
+                                "address": "Kampala Central Hospital, Kampala, Uganda",
+                                "googleMapsLink": "https://www.google.com/maps?q=0.312,32.581"
                             },
-                            "phone": "+256 708 456789",
-                            "bio": "Dr. Olivia Muwanga focuses on treating eating disorders and body dysmorphia.",
-                            "image": "/images/Specialists/olivia_muwanga.jpg",
+                            "phone": "+256 778 876543",
+                            "bio": "Dr. Irene Nakitende specializes in trauma and stress-related disorders.",
+                            "image": " irene_nakitende.jpg",
                             "rating": 4.7,
-                            "languagesSpoken": ["English", "Luganda", "Swahili"],
+                            "languagesSpoken": ["English", "Luganda"],
                             "workingHours": {
-                                "Monday": "9:00 AM - 6:00 PM",
-                                "Tuesday": "9:00 AM - 6:00 PM",
-                                "Wednesday": "9:00 AM - 6:00 PM",
-                                "Thursday": "9:00 AM - 6:00 PM",
-                                "Friday": "9:00 AM - 6:00 PM",
+                                "Monday": "9:00 AM - 5:00 PM",
+                                "Tuesday": "9:00 AM - 5:00 PM",
+                                "Wednesday": "9:00 AM - 5:00 PM",
+                                "Thursday": "9:00 AM - 5:00 PM",
+                                "Friday": "9:00 AM - 5:00 PM",
                                 "Saturday": "Closed",
                                 "Sunday": "Closed"
                             }
