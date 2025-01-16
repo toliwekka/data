@@ -5,7 +5,7 @@
                 "Psychiatrists": {
                     "Male": [
                         {
-                            "name": "Dr. Martin Kamoga",
+                            "name": "Dr. Martin Kabanda",
                             "specialty": "Psychiatrist",
                             "qualifications": "MD Psychiatry",
                             "location": {
@@ -15,7 +15,7 @@
                                 "googleMapsLink": "https://www.google.com/maps?q=0.052,32.460"
                             },
                             "phone": "+256 783 654321",
-                            "bio": "Dr. Martin Kamoga specializes in psychotic disorders and schizophrenia."
+                            "bio": "Dr. Martin Kabanda specializes in psychotic disorders and schizophrenia."
                         }
                     ],
                     "Female": [
