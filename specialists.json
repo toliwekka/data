@@ -1,53 +1,1161 @@
 {
     "groupings": {
         "byCity": {
-            "Entebbe": {
-                "Psychiatrists": {
+            "Kampala": {
+                "Specialists": {
                     "Male": [
                         {
-                            "name": "Dr. James Kakooza",
-                            "specialty": "Psychiatrist",
-                            "qualifications": "MD Psychiatry",
+                            "name": "Dr. John Okello",
+                            "specialty": "Addiction Psychiatry",
+                            "qualifications": "MD Addiction Psychiatry",
                             "location": {
-                                "latitude": 0.055,
-                                "longitude": 32.470,
-                                "address": "3 Main Street, Entebbe, Uganda",
-                                "googleMapsLink": "https://www.google.com/maps?q=0.055,32.470"
+                                "latitude": 0.315216,
+                                "longitude": 31.804099,
+                                "address": "23 Main St, Kampala, Uganda",
+                                "googleMapsLink": "https://www.google.com/maps?q=0.315216,31.804099"
                             },
-                            "phone": "+256 784 654322",
-                            "bio": "Dr. James Kakooza specializes in child and adolescent psychiatry.",
-                            "image": " james_kakooza.jpg",
-                            "rating": 4.7,
-                            "languagesSpoken": ["English", "Luganda", "Swahili"],
+                            "phone": "+256 796 152611",
+                            "bio": "Dr. John Okello specializes in addiction psychiatry with extensive experience.",
+                            "image": "dr._john_okello.jpg",
+                            "rating": 4.5,
+                            "languagesSpoken": [
+                                "Swahili",
+                                "English",
+                                "Luganda"
+                            ],
+                            "workingHours": {
+                                "Monday": "10:00 AM - 4:00 PM",
+                                "Tuesday": "9:00 AM - 6:00 PM",
+                                "Wednesday": "9:00 AM - 6:00 PM",
+                                "Thursday": "9:00 AM - 5:00 PM",
+                                "Friday": "10:00 AM - 6:00 PM",
+                                "Saturday": "Closed",
+                                "Sunday": "Closed"
+                            }
+                        },
+                        {
+                            "name": "Dr. John Lwanga",
+                            "specialty": "Addiction Psychiatry",
+                            "qualifications": "Certified Addiction Specialist",
+                            "location": {
+                                "latitude": -0.716669,
+                                "longitude": 31.434937,
+                                "address": "28 Main St, Kampala, Uganda",
+                                "googleMapsLink": "https://www.google.com/maps?q=-0.716669,31.434937"
+                            },
+                            "phone": "+256 722 355651",
+                            "bio": "Dr. John Lwanga specializes in addiction psychiatry with extensive experience.",
+                            "image": "dr._john_lwanga.jpg",
+                            "rating": 4.1,
+                            "languagesSpoken": [
+                                "Runyankore",
+                                "Luganda",
+                                "English"
+                            ],
+                            "workingHours": {
+                                "Monday": "10:00 AM - 6:00 PM",
+                                "Tuesday": "9:00 AM - 5:00 PM",
+                                "Wednesday": "10:00 AM - 5:00 PM",
+                                "Thursday": "10:00 AM - 4:00 PM",
+                                "Friday": "8:00 AM - 5:00 PM",
+                                "Saturday": "Closed",
+                                "Sunday": "Closed"
+                            }
+                        },
+                        {
+                            "name": "Dr. John Nyakato",
+                            "specialty": "Addiction Psychiatry",
+                            "qualifications": "MD Addiction Psychiatry",
+                            "location": {
+                                "latitude": 0.60099,
+                                "longitude": 30.39274,
+                                "address": "28 Victoria Rd, Kampala, Uganda",
+                                "googleMapsLink": "https://www.google.com/maps?q=0.60099,30.39274"
+                            },
+                            "phone": "+256 793 548145",
+                            "bio": "Dr. John Nyakato specializes in addiction psychiatry with extensive experience.",
+                            "image": "dr._john_nyakato.jpg",
+                            "rating": 4.3,
+                            "languagesSpoken": [
+                                "Swahili"
+                            ],
+                            "workingHours": {
+                                "Monday": "8:00 AM - 4:00 PM",
+                                "Tuesday": "9:00 AM - 4:00 PM",
+                                "Wednesday": "10:00 AM - 4:00 PM",
+                                "Thursday": "9:00 AM - 4:00 PM",
+                                "Friday": "8:00 AM - 4:00 PM",
+                                "Saturday": "Closed",
+                                "Sunday": "Closed"
+                            }
+                        },
+                        {
+                            "name": "Dr. John Mugerwa",
+                            "specialty": "Therapy",
+                            "qualifications": "Licensed Clinical Therapist",
+                            "location": {
+                                "latitude": -0.663986,
+                                "longitude": 32.855831,
+                                "address": "29 Garden Rd, Kampala, Uganda",
+                                "googleMapsLink": "https://www.google.com/maps?q=-0.663986,32.855831"
+                            },
+                            "phone": "+256 770 785672",
+                            "bio": "Dr. John Mugerwa specializes in therapy with extensive experience.",
+                            "image": "dr._john_mugerwa.jpg",
+                            "rating": 4.1,
+                            "languagesSpoken": [
+                                "English",
+                                "Luganda"
+                            ],
+                            "workingHours": {
+                                "Monday": "8:00 AM - 5:00 PM",
+                                "Tuesday": "9:00 AM - 6:00 PM",
+                                "Wednesday": "8:00 AM - 6:00 PM",
+                                "Thursday": "10:00 AM - 6:00 PM",
+                                "Friday": "8:00 AM - 4:00 PM",
+                                "Saturday": "Closed",
+                                "Sunday": "Closed"
+                            }
+                        },
+                        {
+                            "name": "Dr. John Mugerwa",
+                            "specialty": "Therapy",
+                            "qualifications": "Certified Family Therapist",
+                            "location": {
+                                "latitude": -0.426405,
+                                "longitude": 30.321667,
+                                "address": "6 Hill Rd, Kampala, Uganda",
+                                "googleMapsLink": "https://www.google.com/maps?q=-0.426405,30.321667"
+                            },
+                            "phone": "+256 762 125067",
+                            "bio": "Dr. John Mugerwa specializes in therapy with extensive experience.",
+                            "image": "dr._john_mugerwa.jpg",
+                            "rating": 4.6,
+                            "languagesSpoken": [
+                                "English",
+                                "Swahili"
+                            ],
+                            "workingHours": {
+                                "Monday": "9:00 AM - 5:00 PM",
+                                "Tuesday": "8:00 AM - 6:00 PM",
+                                "Wednesday": "9:00 AM - 6:00 PM",
+                                "Thursday": "8:00 AM - 4:00 PM",
+                                "Friday": "10:00 AM - 5:00 PM",
+                                "Saturday": "Closed",
+                                "Sunday": "Closed"
+                            }
+                        },
+                        {
+                            "name": "Dr. John Mugerwa",
+                            "specialty": "Neuropsychology",
+                            "qualifications": "PhD Neuropsychology",
+                            "location": {
+                                "latitude": 0.310741,
+                                "longitude": 31.483758,
+                                "address": "9 Victoria Rd, Kampala, Uganda",
+                                "googleMapsLink": "https://www.google.com/maps?q=0.310741,31.483758"
+                            },
+                            "phone": "+256 743 981473",
+                            "bio": "Dr. John Mugerwa specializes in neuropsychology with extensive experience.",
+                            "image": "dr._john_mugerwa.jpg",
+                            "rating": 5.0,
+                            "languagesSpoken": [
+                                "Luganda",
+                                "Swahili",
+                                "English"
+                            ],
                             "workingHours": {
                                 "Monday": "9:00 AM - 4:00 PM",
+                                "Tuesday": "8:00 AM - 5:00 PM",
+                                "Wednesday": "10:00 AM - 4:00 PM",
+                                "Thursday": "9:00 AM - 4:00 PM",
+                                "Friday": "9:00 AM - 6:00 PM",
+                                "Saturday": "Closed",
+                                "Sunday": "Closed"
+                            }
+                        },
+                        {
+                            "name": "Dr. John Kato",
+                            "specialty": "Therapy",
+                            "qualifications": "Certified Family Therapist",
+                            "location": {
+                                "latitude": -0.820964,
+                                "longitude": 30.201123,
+                                "address": "6 Main St, Kampala, Uganda",
+                                "googleMapsLink": "https://www.google.com/maps?q=-0.820964,30.201123"
+                            },
+                            "phone": "+256 776 264789",
+                            "bio": "Dr. John Kato specializes in therapy with extensive experience.",
+                            "image": "dr._john_kato.jpg",
+                            "rating": 4.0,
+                            "languagesSpoken": [
+                                "Luganda",
+                                "Swahili",
+                                "Runyankore"
+                            ],
+                            "workingHours": {
+                                "Monday": "8:00 AM - 5:00 PM",
+                                "Tuesday": "10:00 AM - 6:00 PM",
+                                "Wednesday": "9:00 AM - 6:00 PM",
+                                "Thursday": "9:00 AM - 5:00 PM",
+                                "Friday": "8:00 AM - 4:00 PM",
+                                "Saturday": "Closed",
+                                "Sunday": "Closed"
+                            }
+                        },
+                        {
+                            "name": "Dr. John Lwanga",
+                            "specialty": "Psychiatry",
+                            "qualifications": "MD Psychiatry",
+                            "location": {
+                                "latitude": 0.868361,
+                                "longitude": 30.101229,
+                                "address": "28 Main St, Kampala, Uganda",
+                                "googleMapsLink": "https://www.google.com/maps?q=0.868361,30.101229"
+                            },
+                            "phone": "+256 726 415497",
+                            "bio": "Dr. John Lwanga specializes in psychiatry with extensive experience.",
+                            "image": "dr._john_lwanga.jpg",
+                            "rating": 4.8,
+                            "languagesSpoken": [
+                                "English",
+                                "Runyankore"
+                            ],
+                            "workingHours": {
+                                "Monday": "8:00 AM - 5:00 PM",
+                                "Tuesday": "10:00 AM - 5:00 PM",
+                                "Wednesday": "8:00 AM - 5:00 PM",
+                                "Thursday": "10:00 AM - 4:00 PM",
+                                "Friday": "9:00 AM - 5:00 PM",
+                                "Saturday": "Closed",
+                                "Sunday": "Closed"
+                            }
+                        },
+                        {
+                            "name": "Dr. John Kato",
+                            "specialty": "Psychology",
+                            "qualifications": "PhD Psychology",
+                            "location": {
+                                "latitude": -0.270779,
+                                "longitude": 31.788774,
+                                "address": "13 Victoria Rd, Kampala, Uganda",
+                                "googleMapsLink": "https://www.google.com/maps?q=-0.270779,31.788774"
+                            },
+                            "phone": "+256 772 112701",
+                            "bio": "Dr. John Kato specializes in psychology with extensive experience.",
+                            "image": "dr._john_kato.jpg",
+                            "rating": 4.3,
+                            "languagesSpoken": [
+                                "Runyankore",
+                                "Swahili",
+                                "English"
+                            ],
+                            "workingHours": {
+                                "Monday": "9:00 AM - 5:00 PM",
+                                "Tuesday": "9:00 AM - 6:00 PM",
+                                "Wednesday": "10:00 AM - 6:00 PM",
+                                "Thursday": "8:00 AM - 4:00 PM",
+                                "Friday": "8:00 AM - 4:00 PM",
+                                "Saturday": "Closed",
+                                "Sunday": "Closed"
+                            }
+                        },
+                        {
+                            "name": "Dr. John Mugerwa",
+                            "specialty": "Psychology",
+                            "qualifications": "Masters in Clinical Psychology",
+                            "location": {
+                                "latitude": 0.618668,
+                                "longitude": 32.352613,
+                                "address": "7 Main St, Kampala, Uganda",
+                                "googleMapsLink": "https://www.google.com/maps?q=0.618668,32.352613"
+                            },
+                            "phone": "+256 726 744848",
+                            "bio": "Dr. John Mugerwa specializes in psychology with extensive experience.",
+                            "image": "dr._john_mugerwa.jpg",
+                            "rating": 4.4,
+                            "languagesSpoken": [
+                                "Luganda",
+                                "Runyankore"
+                            ],
+                            "workingHours": {
+                                "Monday": "10:00 AM - 5:00 PM",
                                 "Tuesday": "9:00 AM - 4:00 PM",
+                                "Wednesday": "8:00 AM - 5:00 PM",
+                                "Thursday": "9:00 AM - 6:00 PM",
+                                "Friday": "10:00 AM - 4:00 PM",
+                                "Saturday": "Closed",
+                                "Sunday": "Closed"
+                            }
+                        },
+                        {
+                            "name": "Dr. John Lwanga",
+                            "specialty": "Therapy",
+                            "qualifications": "Licensed Clinical Therapist",
+                            "location": {
+                                "latitude": 0.425372,
+                                "longitude": 30.17251,
+                                "address": "45 Victoria Rd, Kampala, Uganda",
+                                "googleMapsLink": "https://www.google.com/maps?q=0.425372,30.17251"
+                            },
+                            "phone": "+256 756 891411",
+                            "bio": "Dr. John Lwanga specializes in therapy with extensive experience.",
+                            "image": "dr._john_lwanga.jpg",
+                            "rating": 4.3,
+                            "languagesSpoken": [
+                                "Swahili",
+                                "Luganda"
+                            ],
+                            "workingHours": {
+                                "Monday": "9:00 AM - 5:00 PM",
+                                "Tuesday": "10:00 AM - 4:00 PM",
                                 "Wednesday": "9:00 AM - 4:00 PM",
                                 "Thursday": "9:00 AM - 4:00 PM",
+                                "Friday": "8:00 AM - 5:00 PM",
+                                "Saturday": "Closed",
+                                "Sunday": "Closed"
+                            }
+                        },
+                        {
+                            "name": "Dr. John Lwanga",
+                            "specialty": "Psychiatry",
+                            "qualifications": "Fellowship in Psychiatry",
+                            "location": {
+                                "latitude": -0.284065,
+                                "longitude": 30.503067,
+                                "address": "30 Main St, Kampala, Uganda",
+                                "googleMapsLink": "https://www.google.com/maps?q=-0.284065,30.503067"
+                            },
+                            "phone": "+256 782 289757",
+                            "bio": "Dr. John Lwanga specializes in psychiatry with extensive experience.",
+                            "image": "dr._john_lwanga.jpg",
+                            "rating": 4.8,
+                            "languagesSpoken": [
+                                "English",
+                                "Swahili"
+                            ],
+                            "workingHours": {
+                                "Monday": "10:00 AM - 6:00 PM",
+                                "Tuesday": "10:00 AM - 4:00 PM",
+                                "Wednesday": "8:00 AM - 5:00 PM",
+                                "Thursday": "8:00 AM - 5:00 PM",
+                                "Friday": "10:00 AM - 4:00 PM",
+                                "Saturday": "Closed",
+                                "Sunday": "Closed"
+                            }
+                        },
+                        {
+                            "name": "Dr. John Nyakato",
+                            "specialty": "Neuropsychology",
+                            "qualifications": "PhD Neuropsychology",
+                            "location": {
+                                "latitude": -0.756262,
+                                "longitude": 31.73985,
+                                "address": "27 Hill Rd, Kampala, Uganda",
+                                "googleMapsLink": "https://www.google.com/maps?q=-0.756262,31.73985"
+                            },
+                            "phone": "+256 750 887323",
+                            "bio": "Dr. John Nyakato specializes in neuropsychology with extensive experience.",
+                            "image": "dr._john_nyakato.jpg",
+                            "rating": 4.6,
+                            "languagesSpoken": [
+                                "English"
+                            ],
+                            "workingHours": {
+                                "Monday": "8:00 AM - 4:00 PM",
+                                "Tuesday": "9:00 AM - 4:00 PM",
+                                "Wednesday": "9:00 AM - 6:00 PM",
+                                "Thursday": "10:00 AM - 5:00 PM",
+                                "Friday": "8:00 AM - 5:00 PM",
+                                "Saturday": "Closed",
+                                "Sunday": "Closed"
+                            }
+                        },
+                        {
+                            "name": "Dr. John Lwanga",
+                            "specialty": "Therapy",
+                            "qualifications": "Licensed Clinical Therapist",
+                            "location": {
+                                "latitude": -0.875282,
+                                "longitude": 30.392287,
+                                "address": "26 Hill Rd, Kampala, Uganda",
+                                "googleMapsLink": "https://www.google.com/maps?q=-0.875282,30.392287"
+                            },
+                            "phone": "+256 757 191032",
+                            "bio": "Dr. John Lwanga specializes in therapy with extensive experience.",
+                            "image": "dr._john_lwanga.jpg",
+                            "rating": 4.5,
+                            "languagesSpoken": [
+                                "English",
+                                "Swahili",
+                                "Runyankore"
+                            ],
+                            "workingHours": {
+                                "Monday": "8:00 AM - 6:00 PM",
+                                "Tuesday": "8:00 AM - 4:00 PM",
+                                "Wednesday": "8:00 AM - 5:00 PM",
+                                "Thursday": "9:00 AM - 4:00 PM",
+                                "Friday": "8:00 AM - 5:00 PM",
+                                "Saturday": "Closed",
+                                "Sunday": "Closed"
+                            }
+                        },
+                        {
+                            "name": "Dr. John Mugerwa",
+                            "specialty": "Psychiatry",
+                            "qualifications": "MD Psychiatry",
+                            "location": {
+                                "latitude": 0.866493,
+                                "longitude": 31.677255,
+                                "address": "10 Main St, Kampala, Uganda",
+                                "googleMapsLink": "https://www.google.com/maps?q=0.866493,31.677255"
+                            },
+                            "phone": "+256 721 101400",
+                            "bio": "Dr. John Mugerwa specializes in psychiatry with extensive experience.",
+                            "image": "dr._john_mugerwa.jpg",
+                            "rating": 4.0,
+                            "languagesSpoken": [
+                                "Swahili",
+                                "Runyankore",
+                                "Luganda"
+                            ],
+                            "workingHours": {
+                                "Monday": "8:00 AM - 6:00 PM",
+                                "Tuesday": "10:00 AM - 4:00 PM",
+                                "Wednesday": "10:00 AM - 6:00 PM",
+                                "Thursday": "10:00 AM - 4:00 PM",
+                                "Friday": "10:00 AM - 5:00 PM",
+                                "Saturday": "Closed",
+                                "Sunday": "Closed"
+                            }
+                        }
+                    ],
+                    "Female": [
+                        {
+                            "name": "Dr. Jane Lwanga",
+                            "specialty": "Counseling",
+                            "qualifications": "Licensed Professional Counselor",
+                            "location": {
+                                "latitude": 0.181311,
+                                "longitude": 30.229839,
+                                "address": "29 Hill Rd, Kampala, Uganda",
+                                "googleMapsLink": "https://www.google.com/maps?q=0.181311,30.229839"
+                            },
+                            "phone": "+256 796 798925",
+                            "bio": "Dr. Jane Lwanga specializes in counseling with extensive experience.",
+                            "image": "dr._jane_lwanga.jpg",
+                            "rating": 4.5,
+                            "languagesSpoken": [
+                                "Luganda",
+                                "English",
+                                "Swahili"
+                            ],
+                            "workingHours": {
+                                "Monday": "10:00 AM - 5:00 PM",
+                                "Tuesday": "8:00 AM - 6:00 PM",
+                                "Wednesday": "9:00 AM - 4:00 PM",
+                                "Thursday": "9:00 AM - 6:00 PM",
+                                "Friday": "8:00 AM - 4:00 PM",
+                                "Saturday": "Closed",
+                                "Sunday": "Closed"
+                            }
+                        },
+                        {
+                            "name": "Dr. Jane Kato",
+                            "specialty": "Psychiatry",
+                            "qualifications": "Fellowship in Psychiatry",
+                            "location": {
+                                "latitude": 0.50547,
+                                "longitude": 32.079984,
+                                "address": "33 Main St, Kampala, Uganda",
+                                "googleMapsLink": "https://www.google.com/maps?q=0.50547,32.079984"
+                            },
+                            "phone": "+256 771 991242",
+                            "bio": "Dr. Jane Kato specializes in psychiatry with extensive experience.",
+                            "image": "dr._jane_kato.jpg",
+                            "rating": 5.0,
+                            "languagesSpoken": [
+                                "Runyankore"
+                            ],
+                            "workingHours": {
+                                "Monday": "8:00 AM - 4:00 PM",
+                                "Tuesday": "10:00 AM - 4:00 PM",
+                                "Wednesday": "8:00 AM - 4:00 PM",
+                                "Thursday": "9:00 AM - 4:00 PM",
+                                "Friday": "9:00 AM - 6:00 PM",
+                                "Saturday": "Closed",
+                                "Sunday": "Closed"
+                            }
+                        },
+                        {
+                            "name": "Dr. Jane Lwanga",
+                            "specialty": "Counseling",
+                            "qualifications": "Licensed Professional Counselor",
+                            "location": {
+                                "latitude": -0.199392,
+                                "longitude": 30.018003,
+                                "address": "49 Main St, Kampala, Uganda",
+                                "googleMapsLink": "https://www.google.com/maps?q=-0.199392,30.018003"
+                            },
+                            "phone": "+256 730 373317",
+                            "bio": "Dr. Jane Lwanga specializes in counseling with extensive experience.",
+                            "image": "dr._jane_lwanga.jpg",
+                            "rating": 4.9,
+                            "languagesSpoken": [
+                                "English"
+                            ],
+                            "workingHours": {
+                                "Monday": "9:00 AM - 5:00 PM",
+                                "Tuesday": "10:00 AM - 6:00 PM",
+                                "Wednesday": "10:00 AM - 6:00 PM",
+                                "Thursday": "8:00 AM - 4:00 PM",
+                                "Friday": "9:00 AM - 5:00 PM",
+                                "Saturday": "Closed",
+                                "Sunday": "Closed"
+                            }
+                        },
+                        {
+                            "name": "Dr. Jane Lwanga",
+                            "specialty": "Therapy",
+                            "qualifications": "Certified Family Therapist",
+                            "location": {
+                                "latitude": 0.515594,
+                                "longitude": 30.856729,
+                                "address": "4 Victoria Rd, Kampala, Uganda",
+                                "googleMapsLink": "https://www.google.com/maps?q=0.515594,30.856729"
+                            },
+                            "phone": "+256 710 384285",
+                            "bio": "Dr. Jane Lwanga specializes in therapy with extensive experience.",
+                            "image": "dr._jane_lwanga.jpg",
+                            "rating": 4.1,
+                            "languagesSpoken": [
+                                "Runyankore",
+                                "English",
+                                "Swahili"
+                            ],
+                            "workingHours": {
+                                "Monday": "9:00 AM - 6:00 PM",
+                                "Tuesday": "8:00 AM - 5:00 PM",
+                                "Wednesday": "9:00 AM - 4:00 PM",
+                                "Thursday": "9:00 AM - 5:00 PM",
+                                "Friday": "9:00 AM - 5:00 PM",
+                                "Saturday": "Closed",
+                                "Sunday": "Closed"
+                            }
+                        },
+                        {
+                            "name": "Dr. Jane Mugerwa",
+                            "specialty": "Addiction Psychiatry",
+                            "qualifications": "MD Addiction Psychiatry",
+                            "location": {
+                                "latitude": 0.536246,
+                                "longitude": 30.365561,
+                                "address": "21 Hill Rd, Kampala, Uganda",
+                                "googleMapsLink": "https://www.google.com/maps?q=0.536246,30.365561"
+                            },
+                            "phone": "+256 772 560282",
+                            "bio": "Dr. Jane Mugerwa specializes in addiction psychiatry with extensive experience.",
+                            "image": "dr._jane_mugerwa.jpg",
+                            "rating": 4.4,
+                            "languagesSpoken": [
+                                "Runyankore"
+                            ],
+                            "workingHours": {
+                                "Monday": "9:00 AM - 6:00 PM",
+                                "Tuesday": "9:00 AM - 4:00 PM",
+                                "Wednesday": "8:00 AM - 5:00 PM",
+                                "Thursday": "8:00 AM - 5:00 PM",
+                                "Friday": "8:00 AM - 4:00 PM",
+                                "Saturday": "Closed",
+                                "Sunday": "Closed"
+                            }
+                        },
+                        {
+                            "name": "Dr. Jane Kato",
+                            "specialty": "Psychiatry",
+                            "qualifications": "Fellowship in Psychiatry",
+                            "location": {
+                                "latitude": -0.812787,
+                                "longitude": 32.926912,
+                                "address": "38 Victoria Rd, Kampala, Uganda",
+                                "googleMapsLink": "https://www.google.com/maps?q=-0.812787,32.926912"
+                            },
+                            "phone": "+256 780 510487",
+                            "bio": "Dr. Jane Kato specializes in psychiatry with extensive experience.",
+                            "image": "dr._jane_kato.jpg",
+                            "rating": 4.4,
+                            "languagesSpoken": [
+                                "Runyankore"
+                            ],
+                            "workingHours": {
+                                "Monday": "10:00 AM - 4:00 PM",
+                                "Tuesday": "9:00 AM - 5:00 PM",
+                                "Wednesday": "8:00 AM - 5:00 PM",
+                                "Thursday": "8:00 AM - 4:00 PM",
+                                "Friday": "9:00 AM - 5:00 PM",
+                                "Saturday": "Closed",
+                                "Sunday": "Closed"
+                            }
+                        },
+                        {
+                            "name": "Dr. Jane Mugerwa",
+                            "specialty": "Psychiatry",
+                            "qualifications": "PhD Psychiatry",
+                            "location": {
+                                "latitude": -0.776885,
+                                "longitude": 31.791003,
+                                "address": "21 Garden Rd, Kampala, Uganda",
+                                "googleMapsLink": "https://www.google.com/maps?q=-0.776885,31.791003"
+                            },
+                            "phone": "+256 788 349247",
+                            "bio": "Dr. Jane Mugerwa specializes in psychiatry with extensive experience.",
+                            "image": "dr._jane_mugerwa.jpg",
+                            "rating": 4.3,
+                            "languagesSpoken": [
+                                "Runyankore",
+                                "Luganda"
+                            ],
+                            "workingHours": {
+                                "Monday": "8:00 AM - 5:00 PM",
+                                "Tuesday": "9:00 AM - 6:00 PM",
+                                "Wednesday": "9:00 AM - 4:00 PM",
+                                "Thursday": "10:00 AM - 6:00 PM",
+                                "Friday": "10:00 AM - 6:00 PM",
+                                "Saturday": "Closed",
+                                "Sunday": "Closed"
+                            }
+                        },
+                        {
+                            "name": "Dr. Jane Lwanga",
+                            "specialty": "Neuropsychology",
+                            "qualifications": "PhD Neuropsychology",
+                            "location": {
+                                "latitude": 0.399691,
+                                "longitude": 30.081358,
+                                "address": "36 Main St, Kampala, Uganda",
+                                "googleMapsLink": "https://www.google.com/maps?q=0.399691,30.081358"
+                            },
+                            "phone": "+256 786 821125",
+                            "bio": "Dr. Jane Lwanga specializes in neuropsychology with extensive experience.",
+                            "image": "dr._jane_lwanga.jpg",
+                            "rating": 4.4,
+                            "languagesSpoken": [
+                                "Runyankore",
+                                "Swahili"
+                            ],
+                            "workingHours": {
+                                "Monday": "10:00 AM - 4:00 PM",
+                                "Tuesday": "9:00 AM - 6:00 PM",
+                                "Wednesday": "10:00 AM - 5:00 PM",
+                                "Thursday": "8:00 AM - 4:00 PM",
+                                "Friday": "10:00 AM - 6:00 PM",
+                                "Saturday": "Closed",
+                                "Sunday": "Closed"
+                            }
+                        },
+                        {
+                            "name": "Dr. Jane Mugerwa",
+                            "specialty": "Counseling",
+                            "qualifications": "Masters in Counseling",
+                            "location": {
+                                "latitude": 0.554223,
+                                "longitude": 30.110823,
+                                "address": "47 Hill Rd, Kampala, Uganda",
+                                "googleMapsLink": "https://www.google.com/maps?q=0.554223,30.110823"
+                            },
+                            "phone": "+256 787 312677",
+                            "bio": "Dr. Jane Mugerwa specializes in counseling with extensive experience.",
+                            "image": "dr._jane_mugerwa.jpg",
+                            "rating": 4.0,
+                            "languagesSpoken": [
+                                "Runyankore",
+                                "Swahili"
+                            ],
+                            "workingHours": {
+                                "Monday": "9:00 AM - 5:00 PM",
+                                "Tuesday": "8:00 AM - 4:00 PM",
+                                "Wednesday": "9:00 AM - 5:00 PM",
+                                "Thursday": "10:00 AM - 4:00 PM",
+                                "Friday": "9:00 AM - 5:00 PM",
+                                "Saturday": "Closed",
+                                "Sunday": "Closed"
+                            }
+                        },
+                        {
+                            "name": "Dr. Jane Mugerwa",
+                            "specialty": "Therapy",
+                            "qualifications": "Certified Family Therapist",
+                            "location": {
+                                "latitude": -0.700933,
+                                "longitude": 32.101422,
+                                "address": "2 Garden Rd, Kampala, Uganda",
+                                "googleMapsLink": "https://www.google.com/maps?q=-0.700933,32.101422"
+                            },
+                            "phone": "+256 776 680773",
+                            "bio": "Dr. Jane Mugerwa specializes in therapy with extensive experience.",
+                            "image": "dr._jane_mugerwa.jpg",
+                            "rating": 4.3,
+                            "languagesSpoken": [
+                                "Swahili"
+                            ],
+                            "workingHours": {
+                                "Monday": "9:00 AM - 4:00 PM",
+                                "Tuesday": "9:00 AM - 6:00 PM",
+                                "Wednesday": "9:00 AM - 4:00 PM",
+                                "Thursday": "8:00 AM - 6:00 PM",
+                                "Friday": "10:00 AM - 6:00 PM",
+                                "Saturday": "Closed",
+                                "Sunday": "Closed"
+                            }
+                        },
+                        {
+                            "name": "Dr. Jane Lwanga",
+                            "specialty": "Addiction Psychiatry",
+                            "qualifications": "MD Addiction Psychiatry",
+                            "location": {
+                                "latitude": -0.819535,
+                                "longitude": 32.933092,
+                                "address": "10 Garden Rd, Kampala, Uganda",
+                                "googleMapsLink": "https://www.google.com/maps?q=-0.819535,32.933092"
+                            },
+                            "phone": "+256 744 219655",
+                            "bio": "Dr. Jane Lwanga specializes in addiction psychiatry with extensive experience.",
+                            "image": "dr._jane_lwanga.jpg",
+                            "rating": 4.7,
+                            "languagesSpoken": [
+                                "Runyankore"
+                            ],
+                            "workingHours": {
+                                "Monday": "10:00 AM - 5:00 PM",
+                                "Tuesday": "8:00 AM - 4:00 PM",
+                                "Wednesday": "9:00 AM - 4:00 PM",
+                                "Thursday": "8:00 AM - 4:00 PM",
+                                "Friday": "9:00 AM - 6:00 PM",
+                                "Saturday": "Closed",
+                                "Sunday": "Closed"
+                            }
+                        },
+                        {
+                            "name": "Dr. Jane Okello",
+                            "specialty": "Psychology",
+                            "qualifications": "PhD Psychology",
+                            "location": {
+                                "latitude": -0.843124,
+                                "longitude": 30.213881,
+                                "address": "27 Main St, Kampala, Uganda",
+                                "googleMapsLink": "https://www.google.com/maps?q=-0.843124,30.213881"
+                            },
+                            "phone": "+256 794 260365",
+                            "bio": "Dr. Jane Okello specializes in psychology with extensive experience.",
+                            "image": "dr._jane_okello.jpg",
+                            "rating": 4.7,
+                            "languagesSpoken": [
+                                "English",
+                                "Swahili",
+                                "Runyankore"
+                            ],
+                            "workingHours": {
+                                "Monday": "10:00 AM - 5:00 PM",
+                                "Tuesday": "8:00 AM - 6:00 PM",
+                                "Wednesday": "9:00 AM - 6:00 PM",
+                                "Thursday": "10:00 AM - 4:00 PM",
+                                "Friday": "10:00 AM - 6:00 PM",
+                                "Saturday": "Closed",
+                                "Sunday": "Closed"
+                            }
+                        },
+                        {
+                            "name": "Dr. Jane Nyakato",
+                            "specialty": "Neuropsychology",
+                            "qualifications": "PhD Neuropsychology",
+                            "location": {
+                                "latitude": -0.865916,
+                                "longitude": 31.027725,
+                                "address": "35 Main St, Kampala, Uganda",
+                                "googleMapsLink": "https://www.google.com/maps?q=-0.865916,31.027725"
+                            },
+                            "phone": "+256 781 192967",
+                            "bio": "Dr. Jane Nyakato specializes in neuropsychology with extensive experience.",
+                            "image": "dr._jane_nyakato.jpg",
+                            "rating": 4.6,
+                            "languagesSpoken": [
+                                "English",
+                                "Luganda",
+                                "Swahili"
+                            ],
+                            "workingHours": {
+                                "Monday": "9:00 AM - 6:00 PM",
+                                "Tuesday": "10:00 AM - 4:00 PM",
+                                "Wednesday": "10:00 AM - 4:00 PM",
+                                "Thursday": "8:00 AM - 4:00 PM",
+                                "Friday": "10:00 AM - 5:00 PM",
+                                "Saturday": "Closed",
+                                "Sunday": "Closed"
+                            }
+                        },
+                        {
+                            "name": "Dr. Jane Nyakato",
+                            "specialty": "Psychology",
+                            "qualifications": "PhD Psychology",
+                            "location": {
+                                "latitude": 0.3911,
+                                "longitude": 30.820789,
+                                "address": "26 Victoria Rd, Kampala, Uganda",
+                                "googleMapsLink": "https://www.google.com/maps?q=0.3911,30.820789"
+                            },
+                            "phone": "+256 765 190612",
+                            "bio": "Dr. Jane Nyakato specializes in psychology with extensive experience.",
+                            "image": "dr._jane_nyakato.jpg",
+                            "rating": 4.0,
+                            "languagesSpoken": [
+                                "Runyankore"
+                            ],
+                            "workingHours": {
+                                "Monday": "8:00 AM - 6:00 PM",
+                                "Tuesday": "8:00 AM - 4:00 PM",
+                                "Wednesday": "9:00 AM - 6:00 PM",
+                                "Thursday": "9:00 AM - 6:00 PM",
                                 "Friday": "9:00 AM - 4:00 PM",
                                 "Saturday": "Closed",
                                 "Sunday": "Closed"
                             }
                         },
                         {
-                            "name": "Dr. Martin Kabanda",
-                            "specialty": "Psychiatrist",
-                            "qualifications": "MD Psychiatry",
+                            "name": "Dr. Jane Kato",
+                            "specialty": "Counseling",
+                            "qualifications": "Masters in Counseling",
                             "location": {
-                                "latitude": 0.052,
-                                "longitude": 32.460,
-                                "address": "2 Victoria Mall Rd, Entebbe, Uganda",
-                                "googleMapsLink": "https://www.google.com/maps?q=0.052,32.460"
+                                "latitude": 0.21182,
+                                "longitude": 31.407112,
+                                "address": "30 Garden Rd, Kampala, Uganda",
+                                "googleMapsLink": "https://www.google.com/maps?q=0.21182,31.407112"
                             },
-                            "phone": "+256 783 654321",
-                            "bio": "Dr. Martin Kabanda specializes in psychotic disorders and schizophrenia.",
-                            "image": " martin_kabanda.jpg",
-                            "rating": 4.5,
-                            "languagesSpoken": ["English", "Luganda"],
+                            "phone": "+256 761 273773",
+                            "bio": "Dr. Jane Kato specializes in counseling with extensive experience.",
+                            "image": "dr._jane_kato.jpg",
+                            "rating": 4.1,
+                            "languagesSpoken": [
+                                "Runyankore"
+                            ],
+                            "workingHours": {
+                                "Monday": "8:00 AM - 6:00 PM",
+                                "Tuesday": "9:00 AM - 4:00 PM",
+                                "Wednesday": "9:00 AM - 4:00 PM",
+                                "Thursday": "9:00 AM - 5:00 PM",
+                                "Friday": "8:00 AM - 6:00 PM",
+                                "Saturday": "Closed",
+                                "Sunday": "Closed"
+                            }
+                        }
+                    ]
+                }
+            },
+            "Entebbe": {
+                "Specialists": {
+                    "Male": [
+                        {
+                            "name": "Dr. John Lwanga",
+                            "specialty": "Psychology",
+                            "qualifications": "Masters in Clinical Psychology",
+                            "location": {
+                                "latitude": 0.341218,
+                                "longitude": 31.878452,
+                                "address": "24 Main St, Entebbe, Uganda",
+                                "googleMapsLink": "https://www.google.com/maps?q=0.341218,31.878452"
+                            },
+                            "phone": "+256 789 981091",
+                            "bio": "Dr. John Lwanga specializes in psychology with extensive experience.",
+                            "image": "dr._john_lwanga.jpg",
+                            "rating": 4.3,
+                            "languagesSpoken": [
+                                "Swahili"
+                            ],
                             "workingHours": {
                                 "Monday": "8:00 AM - 5:00 PM",
                                 "Tuesday": "8:00 AM - 5:00 PM",
-                                "Wednesday": "8:00 AM - 5:00 PM",
+                                "Wednesday": "10:00 AM - 5:00 PM",
+                                "Thursday": "10:00 AM - 4:00 PM",
+                                "Friday": "8:00 AM - 6:00 PM",
+                                "Saturday": "Closed",
+                                "Sunday": "Closed"
+                            }
+                        },
+                        {
+                            "name": "Dr. John Mugerwa",
+                            "specialty": "Counseling",
+                            "qualifications": "Licensed Professional Counselor",
+                            "location": {
+                                "latitude": 0.374673,
+                                "longitude": 32.899644,
+                                "address": "49 Victoria Rd, Entebbe, Uganda",
+                                "googleMapsLink": "https://www.google.com/maps?q=0.374673,32.899644"
+                            },
+                            "phone": "+256 781 408182",
+                            "bio": "Dr. John Mugerwa specializes in counseling with extensive experience.",
+                            "image": "dr._john_mugerwa.jpg",
+                            "rating": 4.2,
+                            "languagesSpoken": [
+                                "Luganda",
+                                "English",
+                                "Swahili"
+                            ],
+                            "workingHours": {
+                                "Monday": "9:00 AM - 4:00 PM",
+                                "Tuesday": "10:00 AM - 6:00 PM",
+                                "Wednesday": "9:00 AM - 4:00 PM",
+                                "Thursday": "10:00 AM - 4:00 PM",
+                                "Friday": "9:00 AM - 6:00 PM",
+                                "Saturday": "Closed",
+                                "Sunday": "Closed"
+                            }
+                        },
+                        {
+                            "name": "Dr. John Nyakato",
+                            "specialty": "Psychology",
+                            "qualifications": "PhD Psychology",
+                            "location": {
+                                "latitude": 0.836906,
+                                "longitude": 30.296422,
+                                "address": "44 Garden Rd, Entebbe, Uganda",
+                                "googleMapsLink": "https://www.google.com/maps?q=0.836906,30.296422"
+                            },
+                            "phone": "+256 798 115359",
+                            "bio": "Dr. John Nyakato specializes in psychology with extensive experience.",
+                            "image": "dr._john_nyakato.jpg",
+                            "rating": 4.4,
+                            "languagesSpoken": [
+                                "Swahili",
+                                "English",
+                                "Luganda"
+                            ],
+                            "workingHours": {
+                                "Monday": "10:00 AM - 4:00 PM",
+                                "Tuesday": "10:00 AM - 5:00 PM",
+                                "Wednesday": "10:00 AM - 5:00 PM",
+                                "Thursday": "8:00 AM - 6:00 PM",
+                                "Friday": "8:00 AM - 5:00 PM",
+                                "Saturday": "Closed",
+                                "Sunday": "Closed"
+                            }
+                        },
+                        {
+                            "name": "Dr. John Nyakato",
+                            "specialty": "Addiction Psychiatry",
+                            "qualifications": "Certified Addiction Specialist",
+                            "location": {
+                                "latitude": -0.137321,
+                                "longitude": 32.540394,
+                                "address": "30 Main St, Entebbe, Uganda",
+                                "googleMapsLink": "https://www.google.com/maps?q=-0.137321,32.540394"
+                            },
+                            "phone": "+256 708 802588",
+                            "bio": "Dr. John Nyakato specializes in addiction psychiatry with extensive experience.",
+                            "image": "dr._john_nyakato.jpg",
+                            "rating": 4.2,
+                            "languagesSpoken": [
+                                "Luganda",
+                                "English"
+                            ],
+                            "workingHours": {
+                                "Monday": "8:00 AM - 5:00 PM",
+                                "Tuesday": "10:00 AM - 4:00 PM",
+                                "Wednesday": "8:00 AM - 4:00 PM",
+                                "Thursday": "10:00 AM - 4:00 PM",
+                                "Friday": "8:00 AM - 6:00 PM",
+                                "Saturday": "Closed",
+                                "Sunday": "Closed"
+                            }
+                        },
+                        {
+                            "name": "Dr. John Okello",
+                            "specialty": "Counseling",
+                            "qualifications": "Licensed Professional Counselor",
+                            "location": {
+                                "latitude": 0.432372,
+                                "longitude": 32.851729,
+                                "address": "32 Garden Rd, Entebbe, Uganda",
+                                "googleMapsLink": "https://www.google.com/maps?q=0.432372,32.851729"
+                            },
+                            "phone": "+256 732 953304",
+                            "bio": "Dr. John Okello specializes in counseling with extensive experience.",
+                            "image": "dr._john_okello.jpg",
+                            "rating": 4.9,
+                            "languagesSpoken": [
+                                "Swahili"
+                            ],
+                            "workingHours": {
+                                "Monday": "8:00 AM - 5:00 PM",
+                                "Tuesday": "8:00 AM - 4:00 PM",
+                                "Wednesday": "10:00 AM - 6:00 PM",
+                                "Thursday": "9:00 AM - 5:00 PM",
+                                "Friday": "9:00 AM - 4:00 PM",
+                                "Saturday": "Closed",
+                                "Sunday": "Closed"
+                            }
+                        },
+                        {
+                            "name": "Dr. John Nyakato",
+                            "specialty": "Neuropsychology",
+                            "qualifications": "PhD Neuropsychology",
+                            "location": {
+                                "latitude": 0.876586,
+                                "longitude": 30.527933,
+                                "address": "9 Main St, Entebbe, Uganda",
+                                "googleMapsLink": "https://www.google.com/maps?q=0.876586,30.527933"
+                            },
+                            "phone": "+256 720 350762",
+                            "bio": "Dr. John Nyakato specializes in neuropsychology with extensive experience.",
+                            "image": "dr._john_nyakato.jpg",
+                            "rating": 4.5,
+                            "languagesSpoken": [
+                                "Swahili",
+                                "Luganda"
+                            ],
+                            "workingHours": {
+                                "Monday": "10:00 AM - 6:00 PM",
+                                "Tuesday": "8:00 AM - 6:00 PM",
+                                "Wednesday": "10:00 AM - 5:00 PM",
+                                "Thursday": "9:00 AM - 6:00 PM",
+                                "Friday": "10:00 AM - 6:00 PM",
+                                "Saturday": "Closed",
+                                "Sunday": "Closed"
+                            }
+                        }
+                    ],
+                    "Female": [
+                        {
+                            "name": "Dr. Jane Nyakato",
+                            "specialty": "Psychiatry",
+                            "qualifications": "Fellowship in Psychiatry",
+                            "location": {
+                                "latitude": -0.789858,
+                                "longitude": 30.231186,
+                                "address": "49 Hill Rd, Entebbe, Uganda",
+                                "googleMapsLink": "https://www.google.com/maps?q=-0.789858,30.231186"
+                            },
+                            "phone": "+256 754 163971",
+                            "bio": "Dr. Jane Nyakato specializes in psychiatry with extensive experience.",
+                            "image": "dr._jane_nyakato.jpg",
+                            "rating": 4.3,
+                            "languagesSpoken": [
+                                "Luganda",
+                                "Runyankore",
+                                "English"
+                            ],
+                            "workingHours": {
+                                "Monday": "8:00 AM - 6:00 PM",
+                                "Tuesday": "8:00 AM - 6:00 PM",
+                                "Wednesday": "9:00 AM - 4:00 PM",
+                                "Thursday": "9:00 AM - 4:00 PM",
+                                "Friday": "9:00 AM - 5:00 PM",
+                                "Saturday": "Closed",
+                                "Sunday": "Closed"
+                            }
+                        },
+                        {
+                            "name": "Dr. Jane Lwanga",
+                            "specialty": "Therapy",
+                            "qualifications": "Licensed Clinical Therapist",
+                            "location": {
+                                "latitude": -0.322837,
+                                "longitude": 31.345926,
+                                "address": "47 Victoria Rd, Entebbe, Uganda",
+                                "googleMapsLink": "https://www.google.com/maps?q=-0.322837,31.345926"
+                            },
+                            "phone": "+256 776 500123",
+                            "bio": "Dr. Jane Lwanga specializes in therapy with extensive experience.",
+                            "image": "dr._jane_lwanga.jpg",
+                            "rating": 4.8,
+                            "languagesSpoken": [
+                                "English"
+                            ],
+                            "workingHours": {
+                                "Monday": "10:00 AM - 6:00 PM",
+                                "Tuesday": "9:00 AM - 5:00 PM",
+                                "Wednesday": "10:00 AM - 4:00 PM",
+                                "Thursday": "10:00 AM - 5:00 PM",
+                                "Friday": "8:00 AM - 4:00 PM",
+                                "Saturday": "Closed",
+                                "Sunday": "Closed"
+                            }
+                        },
+                        {
+                            "name": "Dr. Jane Mugerwa",
+                            "specialty": "Counseling",
+                            "qualifications": "Masters in Counseling",
+                            "location": {
+                                "latitude": 0.694212,
+                                "longitude": 30.51656,
+                                "address": "1 Hill Rd, Entebbe, Uganda",
+                                "googleMapsLink": "https://www.google.com/maps?q=0.694212,30.51656"
+                            },
+                            "phone": "+256 766 937385",
+                            "bio": "Dr. Jane Mugerwa specializes in counseling with extensive experience.",
+                            "image": "dr._jane_mugerwa.jpg",
+                            "rating": 4.4,
+                            "languagesSpoken": [
+                                "Luganda",
+                                "Runyankore",
+                                "English"
+                            ],
+                            "workingHours": {
+                                "Monday": "9:00 AM - 4:00 PM",
+                                "Tuesday": "8:00 AM - 4:00 PM",
+                                "Wednesday": "8:00 AM - 4:00 PM",
+                                "Thursday": "9:00 AM - 4:00 PM",
+                                "Friday": "10:00 AM - 5:00 PM",
+                                "Saturday": "Closed",
+                                "Sunday": "Closed"
+                            }
+                        },
+                        {
+                            "name": "Dr. Jane Lwanga",
+                            "specialty": "Psychology",
+                            "qualifications": "Masters in Clinical Psychology",
+                            "location": {
+                                "latitude": 0.008512,
+                                "longitude": 32.359377,
+                                "address": "48 Garden Rd, Entebbe, Uganda",
+                                "googleMapsLink": "https://www.google.com/maps?q=0.008512,32.359377"
+                            },
+                            "phone": "+256 732 163600",
+                            "bio": "Dr. Jane Lwanga specializes in psychology with extensive experience.",
+                            "image": "dr._jane_lwanga.jpg",
+                            "rating": 4.1,
+                            "languagesSpoken": [
+                                "Luganda"
+                            ],
+                            "workingHours": {
+                                "Monday": "9:00 AM - 4:00 PM",
+                                "Tuesday": "9:00 AM - 5:00 PM",
+                                "Wednesday": "8:00 AM - 4:00 PM",
+                                "Thursday": "8:00 AM - 4:00 PM",
+                                "Friday": "8:00 AM - 5:00 PM",
+                                "Saturday": "Closed",
+                                "Sunday": "Closed"
+                            }
+                        },
+                        {
+                            "name": "Dr. Jane Kato",
+                            "specialty": "Counseling",
+                            "qualifications": "Licensed Professional Counselor",
+                            "location": {
+                                "latitude": 0.476721,
+                                "longitude": 32.303604,
+                                "address": "44 Garden Rd, Entebbe, Uganda",
+                                "googleMapsLink": "https://www.google.com/maps?q=0.476721,32.303604"
+                            },
+                            "phone": "+256 719 128209",
+                            "bio": "Dr. Jane Kato specializes in counseling with extensive experience.",
+                            "image": "dr._jane_kato.jpg",
+                            "rating": 4.4,
+                            "languagesSpoken": [
+                                "Swahili"
+                            ],
+                            "workingHours": {
+                                "Monday": "8:00 AM - 5:00 PM",
+                                "Tuesday": "8:00 AM - 5:00 PM",
+                                "Wednesday": "8:00 AM - 6:00 PM",
                                 "Thursday": "8:00 AM - 5:00 PM",
                                 "Friday": "8:00 AM - 5:00 PM",
                                 "Saturday": "Closed",
@@ -55,25 +1163,547 @@
                             }
                         },
                         {
-                            "name": "Dr. Isaac Muwonge",
-                            "specialty": "Psychiatrist",
-                            "qualifications": "MD Psychiatry",
+                            "name": "Dr. Jane Lwanga",
+                            "specialty": "Psychology",
+                            "qualifications": "Masters in Clinical Psychology",
                             "location": {
-                                "latitude": 0.051,
-                                "longitude": 32.467,
-                                "address": "6 Nambi Rd, Entebbe, Uganda",
-                                "googleMapsLink": "https://www.google.com/maps?q=0.051,32.467"
+                                "latitude": 0.024177,
+                                "longitude": 31.228405,
+                                "address": "17 Hill Rd, Entebbe, Uganda",
+                                "googleMapsLink": "https://www.google.com/maps?q=0.024177,31.228405"
                             },
-                            "phone": "+256 756 890123",
-                            "bio": "Dr. Isaac Muwonge focuses on adult psychiatry, particularly mood disorders.",
-                            "image": " isaac_muwonge.jpg",
-                            "rating": 4.4,
-                            "languagesSpoken": ["English", "Luganda"],
+                            "phone": "+256 713 601981",
+                            "bio": "Dr. Jane Lwanga specializes in psychology with extensive experience.",
+                            "image": "dr._jane_lwanga.jpg",
+                            "rating": 4.8,
+                            "languagesSpoken": [
+                                "Runyankore",
+                                "Luganda",
+                                "Swahili"
+                            ],
                             "workingHours": {
-                                "Monday": "9:00 AM - 4:00 PM",
+                                "Monday": "10:00 AM - 5:00 PM",
+                                "Tuesday": "10:00 AM - 4:00 PM",
+                                "Wednesday": "9:00 AM - 4:00 PM",
+                                "Thursday": "10:00 AM - 6:00 PM",
+                                "Friday": "10:00 AM - 5:00 PM",
+                                "Saturday": "Closed",
+                                "Sunday": "Closed"
+                            }
+                        }
+                    ]
+                }
+            },
+            "Mbarara": {
+                "Specialists": {
+                    "Male": [
+                        {
+                            "name": "Dr. John Okello",
+                            "specialty": "Counseling",
+                            "qualifications": "Licensed Professional Counselor",
+                            "location": {
+                                "latitude": -0.556016,
+                                "longitude": 32.125272,
+                                "address": "38 Victoria Rd, Mbarara, Uganda",
+                                "googleMapsLink": "https://www.google.com/maps?q=-0.556016,32.125272"
+                            },
+                            "phone": "+256 779 381341",
+                            "bio": "Dr. John Okello specializes in counseling with extensive experience.",
+                            "image": "dr._john_okello.jpg",
+                            "rating": 4.0,
+                            "languagesSpoken": [
+                                "English",
+                                "Runyankore",
+                                "Luganda"
+                            ],
+                            "workingHours": {
+                                "Monday": "8:00 AM - 4:00 PM",
+                                "Tuesday": "10:00 AM - 5:00 PM",
+                                "Wednesday": "10:00 AM - 4:00 PM",
+                                "Thursday": "10:00 AM - 6:00 PM",
+                                "Friday": "10:00 AM - 6:00 PM",
+                                "Saturday": "Closed",
+                                "Sunday": "Closed"
+                            }
+                        },
+                        {
+                            "name": "Dr. John Kato",
+                            "specialty": "Addiction Psychiatry",
+                            "qualifications": "MD Addiction Psychiatry",
+                            "location": {
+                                "latitude": -0.9034,
+                                "longitude": 30.856269,
+                                "address": "24 Victoria Rd, Mbarara, Uganda",
+                                "googleMapsLink": "https://www.google.com/maps?q=-0.9034,30.856269"
+                            },
+                            "phone": "+256 742 836684",
+                            "bio": "Dr. John Kato specializes in addiction psychiatry with extensive experience.",
+                            "image": "dr._john_kato.jpg",
+                            "rating": 4.1,
+                            "languagesSpoken": [
+                                "Runyankore",
+                                "Luganda",
+                                "Swahili"
+                            ],
+                            "workingHours": {
+                                "Monday": "10:00 AM - 4:00 PM",
+                                "Tuesday": "9:00 AM - 5:00 PM",
+                                "Wednesday": "8:00 AM - 5:00 PM",
+                                "Thursday": "10:00 AM - 4:00 PM",
+                                "Friday": "8:00 AM - 6:00 PM",
+                                "Saturday": "Closed",
+                                "Sunday": "Closed"
+                            }
+                        },
+                        {
+                            "name": "Dr. John Okello",
+                            "specialty": "Therapy",
+                            "qualifications": "Licensed Clinical Therapist",
+                            "location": {
+                                "latitude": 0.414369,
+                                "longitude": 31.482447,
+                                "address": "37 Main St, Mbarara, Uganda",
+                                "googleMapsLink": "https://www.google.com/maps?q=0.414369,31.482447"
+                            },
+                            "phone": "+256 795 198231",
+                            "bio": "Dr. John Okello specializes in therapy with extensive experience.",
+                            "image": "dr._john_okello.jpg",
+                            "rating": 4.0,
+                            "languagesSpoken": [
+                                "Swahili"
+                            ],
+                            "workingHours": {
+                                "Monday": "10:00 AM - 5:00 PM",
+                                "Tuesday": "8:00 AM - 5:00 PM",
+                                "Wednesday": "10:00 AM - 5:00 PM",
+                                "Thursday": "8:00 AM - 6:00 PM",
+                                "Friday": "8:00 AM - 5:00 PM",
+                                "Saturday": "Closed",
+                                "Sunday": "Closed"
+                            }
+                        },
+                        {
+                            "name": "Dr. John Okello",
+                            "specialty": "Neuropsychology",
+                            "qualifications": "MD Neuropsychiatry",
+                            "location": {
+                                "latitude": 0.131391,
+                                "longitude": 32.455114,
+                                "address": "36 Hill Rd, Mbarara, Uganda",
+                                "googleMapsLink": "https://www.google.com/maps?q=0.131391,32.455114"
+                            },
+                            "phone": "+256 718 939493",
+                            "bio": "Dr. John Okello specializes in neuropsychology with extensive experience.",
+                            "image": "dr._john_okello.jpg",
+                            "rating": 4.7,
+                            "languagesSpoken": [
+                                "Runyankore",
+                                "Swahili"
+                            ],
+                            "workingHours": {
+                                "Monday": "8:00 AM - 6:00 PM",
+                                "Tuesday": "10:00 AM - 6:00 PM",
+                                "Wednesday": "8:00 AM - 5:00 PM",
+                                "Thursday": "8:00 AM - 4:00 PM",
+                                "Friday": "8:00 AM - 6:00 PM",
+                                "Saturday": "Closed",
+                                "Sunday": "Closed"
+                            }
+                        },
+                        {
+                            "name": "Dr. John Okello",
+                            "specialty": "Psychology",
+                            "qualifications": "PhD Psychology",
+                            "location": {
+                                "latitude": 0.126436,
+                                "longitude": 31.034078,
+                                "address": "8 Garden Rd, Mbarara, Uganda",
+                                "googleMapsLink": "https://www.google.com/maps?q=0.126436,31.034078"
+                            },
+                            "phone": "+256 786 715232",
+                            "bio": "Dr. John Okello specializes in psychology with extensive experience.",
+                            "image": "dr._john_okello.jpg",
+                            "rating": 4.4,
+                            "languagesSpoken": [
+                                "English",
+                                "Runyankore"
+                            ],
+                            "workingHours": {
+                                "Monday": "10:00 AM - 4:00 PM",
+                                "Tuesday": "9:00 AM - 4:00 PM",
+                                "Wednesday": "8:00 AM - 6:00 PM",
+                                "Thursday": "9:00 AM - 6:00 PM",
+                                "Friday": "9:00 AM - 6:00 PM",
+                                "Saturday": "Closed",
+                                "Sunday": "Closed"
+                            }
+                        },
+                        {
+                            "name": "Dr. John Lwanga",
+                            "specialty": "Counseling",
+                            "qualifications": "Masters in Counseling",
+                            "location": {
+                                "latitude": -0.32756,
+                                "longitude": 31.500154,
+                                "address": "48 Garden Rd, Mbarara, Uganda",
+                                "googleMapsLink": "https://www.google.com/maps?q=-0.32756,31.500154"
+                            },
+                            "phone": "+256 796 494287",
+                            "bio": "Dr. John Lwanga specializes in counseling with extensive experience.",
+                            "image": "dr._john_lwanga.jpg",
+                            "rating": 4.2,
+                            "languagesSpoken": [
+                                "Runyankore"
+                            ],
+                            "workingHours": {
+                                "Monday": "10:00 AM - 6:00 PM",
+                                "Tuesday": "8:00 AM - 4:00 PM",
+                                "Wednesday": "8:00 AM - 6:00 PM",
+                                "Thursday": "8:00 AM - 5:00 PM",
+                                "Friday": "9:00 AM - 5:00 PM",
+                                "Saturday": "Closed",
+                                "Sunday": "Closed"
+                            }
+                        }
+                    ],
+                    "Female": [
+                        {
+                            "name": "Dr. Jane Kato",
+                            "specialty": "Psychology",
+                            "qualifications": "PhD Psychology",
+                            "location": {
+                                "latitude": 0.184293,
+                                "longitude": 32.347923,
+                                "address": "19 Garden Rd, Mbarara, Uganda",
+                                "googleMapsLink": "https://www.google.com/maps?q=0.184293,32.347923"
+                            },
+                            "phone": "+256 744 782694",
+                            "bio": "Dr. Jane Kato specializes in psychology with extensive experience.",
+                            "image": "dr._jane_kato.jpg",
+                            "rating": 4.5,
+                            "languagesSpoken": [
+                                "Runyankore"
+                            ],
+                            "workingHours": {
+                                "Monday": "9:00 AM - 6:00 PM",
+                                "Tuesday": "10:00 AM - 5:00 PM",
+                                "Wednesday": "8:00 AM - 6:00 PM",
+                                "Thursday": "8:00 AM - 4:00 PM",
+                                "Friday": "8:00 AM - 4:00 PM",
+                                "Saturday": "Closed",
+                                "Sunday": "Closed"
+                            }
+                        },
+                        {
+                            "name": "Dr. Jane Kato",
+                            "specialty": "Counseling",
+                            "qualifications": "Masters in Counseling",
+                            "location": {
+                                "latitude": 0.285587,
+                                "longitude": 30.106022,
+                                "address": "32 Main St, Mbarara, Uganda",
+                                "googleMapsLink": "https://www.google.com/maps?q=0.285587,30.106022"
+                            },
+                            "phone": "+256 780 890352",
+                            "bio": "Dr. Jane Kato specializes in counseling with extensive experience.",
+                            "image": "dr._jane_kato.jpg",
+                            "rating": 4.1,
+                            "languagesSpoken": [
+                                "Luganda",
+                                "Runyankore"
+                            ],
+                            "workingHours": {
+                                "Monday": "9:00 AM - 6:00 PM",
                                 "Tuesday": "9:00 AM - 4:00 PM",
                                 "Wednesday": "9:00 AM - 4:00 PM",
+                                "Thursday": "10:00 AM - 5:00 PM",
+                                "Friday": "10:00 AM - 6:00 PM",
+                                "Saturday": "Closed",
+                                "Sunday": "Closed"
+                            }
+                        },
+                        {
+                            "name": "Dr. Jane Lwanga",
+                            "specialty": "Psychiatry",
+                            "qualifications": "MD Psychiatry",
+                            "location": {
+                                "latitude": 0.625724,
+                                "longitude": 32.838155,
+                                "address": "15 Hill Rd, Mbarara, Uganda",
+                                "googleMapsLink": "https://www.google.com/maps?q=0.625724,32.838155"
+                            },
+                            "phone": "+256 703 570110",
+                            "bio": "Dr. Jane Lwanga specializes in psychiatry with extensive experience.",
+                            "image": "dr._jane_lwanga.jpg",
+                            "rating": 4.8,
+                            "languagesSpoken": [
+                                "Runyankore",
+                                "Swahili",
+                                "Luganda"
+                            ],
+                            "workingHours": {
+                                "Monday": "10:00 AM - 4:00 PM",
+                                "Tuesday": "10:00 AM - 5:00 PM",
+                                "Wednesday": "9:00 AM - 4:00 PM",
+                                "Thursday": "8:00 AM - 4:00 PM",
+                                "Friday": "8:00 AM - 6:00 PM",
+                                "Saturday": "Closed",
+                                "Sunday": "Closed"
+                            }
+                        },
+                        {
+                            "name": "Dr. Jane Nyakato",
+                            "specialty": "Psychology",
+                            "qualifications": "PhD Psychology",
+                            "location": {
+                                "latitude": 0.009092,
+                                "longitude": 31.547864,
+                                "address": "12 Hill Rd, Mbarara, Uganda",
+                                "googleMapsLink": "https://www.google.com/maps?q=0.009092,31.547864"
+                            },
+                            "phone": "+256 701 884916",
+                            "bio": "Dr. Jane Nyakato specializes in psychology with extensive experience.",
+                            "image": "dr._jane_nyakato.jpg",
+                            "rating": 4.8,
+                            "languagesSpoken": [
+                                "Swahili",
+                                "Luganda",
+                                "English"
+                            ],
+                            "workingHours": {
+                                "Monday": "10:00 AM - 5:00 PM",
+                                "Tuesday": "9:00 AM - 5:00 PM",
+                                "Wednesday": "9:00 AM - 4:00 PM",
                                 "Thursday": "9:00 AM - 4:00 PM",
+                                "Friday": "8:00 AM - 5:00 PM",
+                                "Saturday": "Closed",
+                                "Sunday": "Closed"
+                            }
+                        },
+                        {
+                            "name": "Dr. Jane Lwanga",
+                            "specialty": "Counseling",
+                            "qualifications": "Licensed Professional Counselor",
+                            "location": {
+                                "latitude": 0.157575,
+                                "longitude": 32.156462,
+                                "address": "48 Hill Rd, Mbarara, Uganda",
+                                "googleMapsLink": "https://www.google.com/maps?q=0.157575,32.156462"
+                            },
+                            "phone": "+256 704 999984",
+                            "bio": "Dr. Jane Lwanga specializes in counseling with extensive experience.",
+                            "image": "dr._jane_lwanga.jpg",
+                            "rating": 4.5,
+                            "languagesSpoken": [
+                                "Runyankore",
+                                "English"
+                            ],
+                            "workingHours": {
+                                "Monday": "10:00 AM - 4:00 PM",
+                                "Tuesday": "10:00 AM - 6:00 PM",
+                                "Wednesday": "10:00 AM - 5:00 PM",
+                                "Thursday": "9:00 AM - 4:00 PM",
+                                "Friday": "8:00 AM - 6:00 PM",
+                                "Saturday": "Closed",
+                                "Sunday": "Closed"
+                            }
+                        },
+                        {
+                            "name": "Dr. Jane Okello",
+                            "specialty": "Counseling",
+                            "qualifications": "Licensed Professional Counselor",
+                            "location": {
+                                "latitude": -0.549586,
+                                "longitude": 30.980351,
+                                "address": "43 Garden Rd, Mbarara, Uganda",
+                                "googleMapsLink": "https://www.google.com/maps?q=-0.549586,30.980351"
+                            },
+                            "phone": "+256 713 109524",
+                            "bio": "Dr. Jane Okello specializes in counseling with extensive experience.",
+                            "image": "dr._jane_okello.jpg",
+                            "rating": 4.9,
+                            "languagesSpoken": [
+                                "Swahili"
+                            ],
+                            "workingHours": {
+                                "Monday": "10:00 AM - 5:00 PM",
+                                "Tuesday": "8:00 AM - 5:00 PM",
+                                "Wednesday": "8:00 AM - 5:00 PM",
+                                "Thursday": "10:00 AM - 6:00 PM",
+                                "Friday": "10:00 AM - 6:00 PM",
+                                "Saturday": "Closed",
+                                "Sunday": "Closed"
+                            }
+                        }
+                    ]
+                }
+            },
+            "Gulu": {
+                "Specialists": {
+                    "Male": [
+                        {
+                            "name": "Dr. John Lwanga",
+                            "specialty": "Therapy",
+                            "qualifications": "Licensed Clinical Therapist",
+                            "location": {
+                                "latitude": 0.250839,
+                                "longitude": 32.061407,
+                                "address": "49 Garden Rd, Gulu, Uganda",
+                                "googleMapsLink": "https://www.google.com/maps?q=0.250839,32.061407"
+                            },
+                            "phone": "+256 788 350597",
+                            "bio": "Dr. John Lwanga specializes in therapy with extensive experience.",
+                            "image": "dr._john_lwanga.jpg",
+                            "rating": 5.0,
+                            "languagesSpoken": [
+                                "English"
+                            ],
+                            "workingHours": {
+                                "Monday": "10:00 AM - 5:00 PM",
+                                "Tuesday": "9:00 AM - 6:00 PM",
+                                "Wednesday": "9:00 AM - 5:00 PM",
+                                "Thursday": "10:00 AM - 6:00 PM",
+                                "Friday": "10:00 AM - 5:00 PM",
+                                "Saturday": "Closed",
+                                "Sunday": "Closed"
+                            }
+                        },
+                        {
+                            "name": "Dr. John Mugerwa",
+                            "specialty": "Therapy",
+                            "qualifications": "Licensed Clinical Therapist",
+                            "location": {
+                                "latitude": 0.403129,
+                                "longitude": 32.258093,
+                                "address": "25 Main St, Gulu, Uganda",
+                                "googleMapsLink": "https://www.google.com/maps?q=0.403129,32.258093"
+                            },
+                            "phone": "+256 702 661465",
+                            "bio": "Dr. John Mugerwa specializes in therapy with extensive experience.",
+                            "image": "dr._john_mugerwa.jpg",
+                            "rating": 4.2,
+                            "languagesSpoken": [
+                                "Swahili",
+                                "Luganda",
+                                "English"
+                            ],
+                            "workingHours": {
+                                "Monday": "8:00 AM - 4:00 PM",
+                                "Tuesday": "9:00 AM - 5:00 PM",
+                                "Wednesday": "10:00 AM - 4:00 PM",
+                                "Thursday": "9:00 AM - 4:00 PM",
+                                "Friday": "8:00 AM - 6:00 PM",
+                                "Saturday": "Closed",
+                                "Sunday": "Closed"
+                            }
+                        },
+                        {
+                            "name": "Dr. John Nyakato",
+                            "specialty": "Psychology",
+                            "qualifications": "PhD Psychology",
+                            "location": {
+                                "latitude": -0.300067,
+                                "longitude": 30.734748,
+                                "address": "11 Hill Rd, Gulu, Uganda",
+                                "googleMapsLink": "https://www.google.com/maps?q=-0.300067,30.734748"
+                            },
+                            "phone": "+256 787 807221",
+                            "bio": "Dr. John Nyakato specializes in psychology with extensive experience.",
+                            "image": "dr._john_nyakato.jpg",
+                            "rating": 4.8,
+                            "languagesSpoken": [
+                                "English",
+                                "Luganda"
+                            ],
+                            "workingHours": {
+                                "Monday": "9:00 AM - 4:00 PM",
+                                "Tuesday": "9:00 AM - 5:00 PM",
+                                "Wednesday": "9:00 AM - 4:00 PM",
+                                "Thursday": "8:00 AM - 4:00 PM",
+                                "Friday": "8:00 AM - 5:00 PM",
+                                "Saturday": "Closed",
+                                "Sunday": "Closed"
+                            }
+                        },
+                        {
+                            "name": "Dr. John Kato",
+                            "specialty": "Therapy",
+                            "qualifications": "Certified Family Therapist",
+                            "location": {
+                                "latitude": 0.867792,
+                                "longitude": 31.028329,
+                                "address": "8 Hill Rd, Gulu, Uganda",
+                                "googleMapsLink": "https://www.google.com/maps?q=0.867792,31.028329"
+                            },
+                            "phone": "+256 778 386137",
+                            "bio": "Dr. John Kato specializes in therapy with extensive experience.",
+                            "image": "dr._john_kato.jpg",
+                            "rating": 4.5,
+                            "languagesSpoken": [
+                                "English",
+                                "Swahili"
+                            ],
+                            "workingHours": {
+                                "Monday": "10:00 AM - 4:00 PM",
+                                "Tuesday": "8:00 AM - 6:00 PM",
+                                "Wednesday": "9:00 AM - 5:00 PM",
+                                "Thursday": "10:00 AM - 5:00 PM",
+                                "Friday": "8:00 AM - 5:00 PM",
+                                "Saturday": "Closed",
+                                "Sunday": "Closed"
+                            }
+                        },
+                        {
+                            "name": "Dr. John Nyakato",
+                            "specialty": "Psychiatry",
+                            "qualifications": "Fellowship in Psychiatry",
+                            "location": {
+                                "latitude": -0.964387,
+                                "longitude": 32.556158,
+                                "address": "27 Main St, Gulu, Uganda",
+                                "googleMapsLink": "https://www.google.com/maps?q=-0.964387,32.556158"
+                            },
+                            "phone": "+256 794 868548",
+                            "bio": "Dr. John Nyakato specializes in psychiatry with extensive experience.",
+                            "image": "dr._john_nyakato.jpg",
+                            "rating": 4.4,
+                            "languagesSpoken": [
+                                "English",
+                                "Luganda"
+                            ],
+                            "workingHours": {
+                                "Monday": "8:00 AM - 4:00 PM",
+                                "Tuesday": "10:00 AM - 5:00 PM",
+                                "Wednesday": "9:00 AM - 5:00 PM",
+                                "Thursday": "9:00 AM - 5:00 PM",
+                                "Friday": "10:00 AM - 6:00 PM",
+                                "Saturday": "Closed",
+                                "Sunday": "Closed"
+                            }
+                        },
+                        {
+                            "name": "Dr. John Mugerwa",
+                            "specialty": "Neuropsychology",
+                            "qualifications": "MD Neuropsychiatry",
+                            "location": {
+                                "latitude": 0.069345,
+                                "longitude": 32.723404,
+                                "address": "10 Garden Rd, Gulu, Uganda",
+                                "googleMapsLink": "https://www.google.com/maps?q=0.069345,32.723404"
+                            },
+                            "phone": "+256 781 397718",
+                            "bio": "Dr. John Mugerwa specializes in neuropsychology with extensive experience.",
+                            "image": "dr._john_mugerwa.jpg",
+                            "rating": 4.1,
+                            "languagesSpoken": [
+                                "Runyankore",
+                                "Luganda"
+                            ],
+                            "workingHours": {
+                                "Monday": "10:00 AM - 5:00 PM",
+                                "Tuesday": "9:00 AM - 6:00 PM",
+                                "Wednesday": "9:00 AM - 4:00 PM",
+                                "Thursday": "9:00 AM - 6:00 PM",
                                 "Friday": "9:00 AM - 4:00 PM",
                                 "Saturday": "Closed",
                                 "Sunday": "Closed"
@@ -82,76 +1712,165 @@
                     ],
                     "Female": [
                         {
-                            "name": "Dr. Agnes Kato",
-                            "specialty": "Psychiatrist",
-                            "qualifications": "MD Psychiatry",
+                            "name": "Dr. Jane Lwanga",
+                            "specialty": "Therapy",
+                            "qualifications": "Licensed Clinical Therapist",
                             "location": {
-                                "latitude": 0.060,
-                                "longitude": 32.485,
-                                "address": "5 Victoria Rd, Entebbe, Uganda",
-                                "googleMapsLink": "https://www.google.com/maps?q=0.060,32.485"
+                                "latitude": -0.225579,
+                                "longitude": 32.215425,
+                                "address": "34 Main St, Gulu, Uganda",
+                                "googleMapsLink": "https://www.google.com/maps?q=-0.225579,32.215425"
                             },
-                            "phone": "+256 792 789456",
-                            "bio": "Dr. Agnes Kato specializes in general psychiatry and mental health for adults.",
-                            "image": " agnes_kato.jpg",
-                            "rating": 4.6,
-                            "languagesSpoken": ["English", "Luganda"],
+                            "phone": "+256 722 545120",
+                            "bio": "Dr. Jane Lwanga specializes in therapy with extensive experience.",
+                            "image": "dr._jane_lwanga.jpg",
+                            "rating": 4.2,
+                            "languagesSpoken": [
+                                "Runyankore"
+                            ],
                             "workingHours": {
-                                "Monday": "8:00 AM - 5:00 PM",
-                                "Tuesday": "8:00 AM - 5:00 PM",
+                                "Monday": "10:00 AM - 6:00 PM",
+                                "Tuesday": "10:00 AM - 6:00 PM",
                                 "Wednesday": "8:00 AM - 5:00 PM",
-                                "Thursday": "8:00 AM - 5:00 PM",
+                                "Thursday": "10:00 AM - 5:00 PM",
+                                "Friday": "8:00 AM - 6:00 PM",
+                                "Saturday": "Closed",
+                                "Sunday": "Closed"
+                            }
+                        },
+                        {
+                            "name": "Dr. Jane Mugerwa",
+                            "specialty": "Counseling",
+                            "qualifications": "Masters in Counseling",
+                            "location": {
+                                "latitude": -0.642023,
+                                "longitude": 32.767993,
+                                "address": "5 Main St, Gulu, Uganda",
+                                "googleMapsLink": "https://www.google.com/maps?q=-0.642023,32.767993"
+                            },
+                            "phone": "+256 743 737984",
+                            "bio": "Dr. Jane Mugerwa specializes in counseling with extensive experience.",
+                            "image": "dr._jane_mugerwa.jpg",
+                            "rating": 4.2,
+                            "languagesSpoken": [
+                                "Swahili"
+                            ],
+                            "workingHours": {
+                                "Monday": "9:00 AM - 4:00 PM",
+                                "Tuesday": "8:00 AM - 5:00 PM",
+                                "Wednesday": "9:00 AM - 5:00 PM",
+                                "Thursday": "8:00 AM - 6:00 PM",
                                 "Friday": "8:00 AM - 5:00 PM",
                                 "Saturday": "Closed",
                                 "Sunday": "Closed"
                             }
                         },
                         {
-                            "name": "Dr. Evelyn Nyakato",
-                            "specialty": "Psychiatrist",
-                            "qualifications": "MD Psychiatry",
+                            "name": "Dr. Jane Mugerwa",
+                            "specialty": "Psychology",
+                            "qualifications": "Masters in Clinical Psychology",
                             "location": {
-                                "latitude": 0.048,
-                                "longitude": 32.465,
-                                "address": "1 Airport Rd, Entebbe, Uganda",
-                                "googleMapsLink": "https://www.google.com/maps?q=0.048,32.465"
+                                "latitude": 0.738014,
+                                "longitude": 31.545618,
+                                "address": "2 Garden Rd, Gulu, Uganda",
+                                "googleMapsLink": "https://www.google.com/maps?q=0.738014,31.545618"
                             },
-                            "phone": "+256 782 123456",
-                            "bio": "Dr. Evelyn Nyakato offers treatment for mood and anxiety disorders.",
-                            "image": " evelyn_nyakato.jpg",
-                            "rating": 4.7,
-                            "languagesSpoken": ["English", "Luganda", "Swahili"],
+                            "phone": "+256 758 556713",
+                            "bio": "Dr. Jane Mugerwa specializes in psychology with extensive experience.",
+                            "image": "dr._jane_mugerwa.jpg",
+                            "rating": 4.9,
+                            "languagesSpoken": [
+                                "Swahili"
+                            ],
                             "workingHours": {
-                                "Monday": "9:00 AM - 4:00 PM",
-                                "Tuesday": "9:00 AM - 4:00 PM",
-                                "Wednesday": "9:00 AM - 4:00 PM",
-                                "Thursday": "9:00 AM - 4:00 PM",
-                                "Friday": "9:00 AM - 4:00 PM",
+                                "Monday": "9:00 AM - 6:00 PM",
+                                "Tuesday": "9:00 AM - 6:00 PM",
+                                "Wednesday": "10:00 AM - 5:00 PM",
+                                "Thursday": "9:00 AM - 5:00 PM",
+                                "Friday": "8:00 AM - 5:00 PM",
                                 "Saturday": "Closed",
                                 "Sunday": "Closed"
                             }
                         },
                         {
-                            "name": "Dr. Sarah Atukwase",
-                            "specialty": "Psychiatrist",
-                            "qualifications": "MD Psychiatry",
+                            "name": "Dr. Jane Lwanga",
+                            "specialty": "Therapy",
+                            "qualifications": "Licensed Clinical Therapist",
                             "location": {
-                                "latitude": 0.050,
-                                "longitude": 32.460,
-                                "address": "7 Garden Park Rd, Entebbe, Uganda",
-                                "googleMapsLink": "https://www.google.com/maps?q=0.050,32.460"
+                                "latitude": -0.77558,
+                                "longitude": 32.316851,
+                                "address": "36 Garden Rd, Gulu, Uganda",
+                                "googleMapsLink": "https://www.google.com/maps?q=-0.77558,32.316851"
                             },
-                            "phone": "+256 786 234567",
-                            "bio": "Dr. Sarah Atukwase specializes in anxiety and stress management.",
-                            "image": " sarah_atukwase.jpg",
-                            "rating": 4.5,
-                            "languagesSpoken": ["English", "Luganda", "Swahili"],
+                            "phone": "+256 720 356401",
+                            "bio": "Dr. Jane Lwanga specializes in therapy with extensive experience.",
+                            "image": "dr._jane_lwanga.jpg",
+                            "rating": 4.7,
+                            "languagesSpoken": [
+                                "Luganda",
+                                "Swahili"
+                            ],
                             "workingHours": {
                                 "Monday": "9:00 AM - 5:00 PM",
                                 "Tuesday": "9:00 AM - 5:00 PM",
-                                "Wednesday": "9:00 AM - 5:00 PM",
+                                "Wednesday": "10:00 AM - 4:00 PM",
+                                "Thursday": "10:00 AM - 6:00 PM",
+                                "Friday": "10:00 AM - 4:00 PM",
+                                "Saturday": "Closed",
+                                "Sunday": "Closed"
+                            }
+                        },
+                        {
+                            "name": "Dr. Jane Mugerwa",
+                            "specialty": "Neuropsychology",
+                            "qualifications": "PhD Neuropsychology",
+                            "location": {
+                                "latitude": -0.673676,
+                                "longitude": 31.164126,
+                                "address": "26 Garden Rd, Gulu, Uganda",
+                                "googleMapsLink": "https://www.google.com/maps?q=-0.673676,31.164126"
+                            },
+                            "phone": "+256 762 733973",
+                            "bio": "Dr. Jane Mugerwa specializes in neuropsychology with extensive experience.",
+                            "image": "dr._jane_mugerwa.jpg",
+                            "rating": 4.8,
+                            "languagesSpoken": [
+                                "Luganda",
+                                "Swahili"
+                            ],
+                            "workingHours": {
+                                "Monday": "10:00 AM - 5:00 PM",
+                                "Tuesday": "10:00 AM - 4:00 PM",
+                                "Wednesday": "10:00 AM - 5:00 PM",
                                 "Thursday": "9:00 AM - 5:00 PM",
-                                "Friday": "9:00 AM - 5:00 PM",
+                                "Friday": "8:00 AM - 4:00 PM",
+                                "Saturday": "Closed",
+                                "Sunday": "Closed"
+                            }
+                        },
+                        {
+                            "name": "Dr. Jane Mugerwa",
+                            "specialty": "Psychiatry",
+                            "qualifications": "PhD Psychiatry",
+                            "location": {
+                                "latitude": 0.046688,
+                                "longitude": 31.761902,
+                                "address": "35 Hill Rd, Gulu, Uganda",
+                                "googleMapsLink": "https://www.google.com/maps?q=0.046688,31.761902"
+                            },
+                            "phone": "+256 787 914054",
+                            "bio": "Dr. Jane Mugerwa specializes in psychiatry with extensive experience.",
+                            "image": "dr._jane_mugerwa.jpg",
+                            "rating": 4.1,
+                            "languagesSpoken": [
+                                "Luganda"
+                            ],
+                            "workingHours": {
+                                "Monday": "10:00 AM - 5:00 PM",
+                                "Tuesday": "10:00 AM - 6:00 PM",
+                                "Wednesday": "8:00 AM - 6:00 PM",
+                                "Thursday": "8:00 AM - 4:00 PM",
+                                "Friday": "8:00 AM - 6:00 PM",
                                 "Saturday": "Closed",
                                 "Sunday": "Closed"
                             }
@@ -159,27 +1878,311 @@
                     ]
                 }
             },
-            "Kampala": {
-                "Psychiatrists": {
+            "Jinja": {
+                "Specialists": {
                     "Male": [
                         {
-                            "name": "Dr. Joshua Olweny",
-                            "specialty": "Psychiatrist",
-                            "qualifications": "MD Psychiatry",
+                            "name": "Dr. John Lwanga",
+                            "specialty": "Counseling",
+                            "qualifications": "Masters in Counseling",
                             "location": {
-                                "latitude": 0.314,
-                                "longitude": 32.582,
-                                "address": "Kampala Rd, Kampala, Uganda",
-                                "googleMapsLink": "https://www.google.com/maps?q=0.314,32.582"
+                                "latitude": -0.417319,
+                                "longitude": 31.691608,
+                                "address": "18 Victoria Rd, Jinja, Uganda",
+                                "googleMapsLink": "https://www.google.com/maps?q=-0.417319,31.691608"
                             },
-                            "phone": "+256 700 987654",
-                            "bio": "Dr. Joshua Olweny specializes in treating anxiety, depression, and PTSD.",
-                            "image": " joshua_olweny.jpg",
+                            "phone": "+256 777 240287",
+                            "bio": "Dr. John Lwanga specializes in counseling with extensive experience.",
+                            "image": "dr._john_lwanga.jpg",
+                            "rating": 4.4,
+                            "languagesSpoken": [
+                                "Swahili",
+                                "English",
+                                "Runyankore"
+                            ],
+                            "workingHours": {
+                                "Monday": "9:00 AM - 4:00 PM",
+                                "Tuesday": "9:00 AM - 6:00 PM",
+                                "Wednesday": "10:00 AM - 6:00 PM",
+                                "Thursday": "9:00 AM - 5:00 PM",
+                                "Friday": "10:00 AM - 4:00 PM",
+                                "Saturday": "Closed",
+                                "Sunday": "Closed"
+                            }
+                        },
+                        {
+                            "name": "Dr. John Mugerwa",
+                            "specialty": "Neuropsychology",
+                            "qualifications": "PhD Neuropsychology",
+                            "location": {
+                                "latitude": 0.437649,
+                                "longitude": 31.540477,
+                                "address": "20 Main St, Jinja, Uganda",
+                                "googleMapsLink": "https://www.google.com/maps?q=0.437649,31.540477"
+                            },
+                            "phone": "+256 731 190585",
+                            "bio": "Dr. John Mugerwa specializes in neuropsychology with extensive experience.",
+                            "image": "dr._john_mugerwa.jpg",
+                            "rating": 4.0,
+                            "languagesSpoken": [
+                                "Luganda",
+                                "English"
+                            ],
+                            "workingHours": {
+                                "Monday": "9:00 AM - 6:00 PM",
+                                "Tuesday": "8:00 AM - 6:00 PM",
+                                "Wednesday": "8:00 AM - 5:00 PM",
+                                "Thursday": "8:00 AM - 4:00 PM",
+                                "Friday": "8:00 AM - 5:00 PM",
+                                "Saturday": "Closed",
+                                "Sunday": "Closed"
+                            }
+                        },
+                        {
+                            "name": "Dr. John Lwanga",
+                            "specialty": "Therapy",
+                            "qualifications": "Certified Family Therapist",
+                            "location": {
+                                "latitude": -0.314892,
+                                "longitude": 30.092711,
+                                "address": "35 Hill Rd, Jinja, Uganda",
+                                "googleMapsLink": "https://www.google.com/maps?q=-0.314892,30.092711"
+                            },
+                            "phone": "+256 797 173718",
+                            "bio": "Dr. John Lwanga specializes in therapy with extensive experience.",
+                            "image": "dr._john_lwanga.jpg",
+                            "rating": 4.0,
+                            "languagesSpoken": [
+                                "Runyankore"
+                            ],
+                            "workingHours": {
+                                "Monday": "10:00 AM - 5:00 PM",
+                                "Tuesday": "8:00 AM - 6:00 PM",
+                                "Wednesday": "8:00 AM - 5:00 PM",
+                                "Thursday": "10:00 AM - 6:00 PM",
+                                "Friday": "10:00 AM - 6:00 PM",
+                                "Saturday": "Closed",
+                                "Sunday": "Closed"
+                            }
+                        },
+                        {
+                            "name": "Dr. John Okello",
+                            "specialty": "Psychology",
+                            "qualifications": "Masters in Clinical Psychology",
+                            "location": {
+                                "latitude": -0.502971,
+                                "longitude": 31.967306,
+                                "address": "25 Main St, Jinja, Uganda",
+                                "googleMapsLink": "https://www.google.com/maps?q=-0.502971,31.967306"
+                            },
+                            "phone": "+256 750 159760",
+                            "bio": "Dr. John Okello specializes in psychology with extensive experience.",
+                            "image": "dr._john_okello.jpg",
                             "rating": 4.8,
-                            "languagesSpoken": ["English", "Luganda"],
+                            "languagesSpoken": [
+                                "Swahili",
+                                "Luganda"
+                            ],
+                            "workingHours": {
+                                "Monday": "10:00 AM - 6:00 PM",
+                                "Tuesday": "9:00 AM - 6:00 PM",
+                                "Wednesday": "8:00 AM - 4:00 PM",
+                                "Thursday": "9:00 AM - 6:00 PM",
+                                "Friday": "9:00 AM - 5:00 PM",
+                                "Saturday": "Closed",
+                                "Sunday": "Closed"
+                            }
+                        },
+                        {
+                            "name": "Dr. John Kato",
+                            "specialty": "Therapy",
+                            "qualifications": "Licensed Clinical Therapist",
+                            "location": {
+                                "latitude": 0.542853,
+                                "longitude": 30.148392,
+                                "address": "35 Hill Rd, Jinja, Uganda",
+                                "googleMapsLink": "https://www.google.com/maps?q=0.542853,30.148392"
+                            },
+                            "phone": "+256 725 635604",
+                            "bio": "Dr. John Kato specializes in therapy with extensive experience.",
+                            "image": "dr._john_kato.jpg",
+                            "rating": 4.4,
+                            "languagesSpoken": [
+                                "Luganda",
+                                "Swahili"
+                            ],
                             "workingHours": {
                                 "Monday": "8:00 AM - 6:00 PM",
                                 "Tuesday": "8:00 AM - 6:00 PM",
+                                "Wednesday": "10:00 AM - 4:00 PM",
+                                "Thursday": "8:00 AM - 4:00 PM",
+                                "Friday": "8:00 AM - 6:00 PM",
+                                "Saturday": "Closed",
+                                "Sunday": "Closed"
+                            }
+                        },
+                        {
+                            "name": "Dr. John Kato",
+                            "specialty": "Psychiatry",
+                            "qualifications": "MD Psychiatry",
+                            "location": {
+                                "latitude": 0.009868,
+                                "longitude": 30.624891,
+                                "address": "3 Hill Rd, Jinja, Uganda",
+                                "googleMapsLink": "https://www.google.com/maps?q=0.009868,30.624891"
+                            },
+                            "phone": "+256 722 715840",
+                            "bio": "Dr. John Kato specializes in psychiatry with extensive experience.",
+                            "image": "dr._john_kato.jpg",
+                            "rating": 4.8,
+                            "languagesSpoken": [
+                                "Runyankore"
+                            ],
+                            "workingHours": {
+                                "Monday": "9:00 AM - 6:00 PM",
+                                "Tuesday": "9:00 AM - 5:00 PM",
+                                "Wednesday": "10:00 AM - 6:00 PM",
+                                "Thursday": "9:00 AM - 6:00 PM",
+                                "Friday": "9:00 AM - 5:00 PM",
+                                "Saturday": "Closed",
+                                "Sunday": "Closed"
+                            }
+                        }
+                    ],
+                    "Female": [
+                        {
+                            "name": "Dr. Jane Nyakato",
+                            "specialty": "Psychiatry",
+                            "qualifications": "Fellowship in Psychiatry",
+                            "location": {
+                                "latitude": 0.482446,
+                                "longitude": 31.160205,
+                                "address": "46 Garden Rd, Jinja, Uganda",
+                                "googleMapsLink": "https://www.google.com/maps?q=0.482446,31.160205"
+                            },
+                            "phone": "+256 768 751775",
+                            "bio": "Dr. Jane Nyakato specializes in psychiatry with extensive experience.",
+                            "image": "dr._jane_nyakato.jpg",
+                            "rating": 4.8,
+                            "languagesSpoken": [
+                                "Runyankore",
+                                "Swahili"
+                            ],
+                            "workingHours": {
+                                "Monday": "8:00 AM - 5:00 PM",
+                                "Tuesday": "9:00 AM - 6:00 PM",
+                                "Wednesday": "9:00 AM - 6:00 PM",
+                                "Thursday": "9:00 AM - 5:00 PM",
+                                "Friday": "9:00 AM - 6:00 PM",
+                                "Saturday": "Closed",
+                                "Sunday": "Closed"
+                            }
+                        },
+                        {
+                            "name": "Dr. Jane Kato",
+                            "specialty": "Psychology",
+                            "qualifications": "PhD Psychology",
+                            "location": {
+                                "latitude": -0.746049,
+                                "longitude": 30.593779,
+                                "address": "12 Hill Rd, Jinja, Uganda",
+                                "googleMapsLink": "https://www.google.com/maps?q=-0.746049,30.593779"
+                            },
+                            "phone": "+256 730 639914",
+                            "bio": "Dr. Jane Kato specializes in psychology with extensive experience.",
+                            "image": "dr._jane_kato.jpg",
+                            "rating": 4.9,
+                            "languagesSpoken": [
+                                "English",
+                                "Luganda",
+                                "Swahili"
+                            ],
+                            "workingHours": {
+                                "Monday": "10:00 AM - 5:00 PM",
+                                "Tuesday": "9:00 AM - 5:00 PM",
+                                "Wednesday": "8:00 AM - 4:00 PM",
+                                "Thursday": "8:00 AM - 4:00 PM",
+                                "Friday": "9:00 AM - 5:00 PM",
+                                "Saturday": "Closed",
+                                "Sunday": "Closed"
+                            }
+                        },
+                        {
+                            "name": "Dr. Jane Nyakato",
+                            "specialty": "Counseling",
+                            "qualifications": "Licensed Professional Counselor",
+                            "location": {
+                                "latitude": 0.132353,
+                                "longitude": 30.428441,
+                                "address": "11 Garden Rd, Jinja, Uganda",
+                                "googleMapsLink": "https://www.google.com/maps?q=0.132353,30.428441"
+                            },
+                            "phone": "+256 763 238634",
+                            "bio": "Dr. Jane Nyakato specializes in counseling with extensive experience.",
+                            "image": "dr._jane_nyakato.jpg",
+                            "rating": 4.5,
+                            "languagesSpoken": [
+                                "Runyankore",
+                                "English"
+                            ],
+                            "workingHours": {
+                                "Monday": "8:00 AM - 5:00 PM",
+                                "Tuesday": "8:00 AM - 6:00 PM",
+                                "Wednesday": "10:00 AM - 5:00 PM",
+                                "Thursday": "10:00 AM - 5:00 PM",
+                                "Friday": "10:00 AM - 4:00 PM",
+                                "Saturday": "Closed",
+                                "Sunday": "Closed"
+                            }
+                        },
+                        {
+                            "name": "Dr. Jane Nyakato",
+                            "specialty": "Neuropsychology",
+                            "qualifications": "MD Neuropsychiatry",
+                            "location": {
+                                "latitude": -0.824822,
+                                "longitude": 32.435939,
+                                "address": "33 Garden Rd, Jinja, Uganda",
+                                "googleMapsLink": "https://www.google.com/maps?q=-0.824822,32.435939"
+                            },
+                            "phone": "+256 749 154968",
+                            "bio": "Dr. Jane Nyakato specializes in neuropsychology with extensive experience.",
+                            "image": "dr._jane_nyakato.jpg",
+                            "rating": 4.1,
+                            "languagesSpoken": [
+                                "Luganda",
+                                "Swahili"
+                            ],
+                            "workingHours": {
+                                "Monday": "8:00 AM - 6:00 PM",
+                                "Tuesday": "10:00 AM - 5:00 PM",
+                                "Wednesday": "9:00 AM - 5:00 PM",
+                                "Thursday": "10:00 AM - 4:00 PM",
+                                "Friday": "9:00 AM - 4:00 PM",
+                                "Saturday": "Closed",
+                                "Sunday": "Closed"
+                            }
+                        },
+                        {
+                            "name": "Dr. Jane Mugerwa",
+                            "specialty": "Counseling",
+                            "qualifications": "Licensed Professional Counselor",
+                            "location": {
+                                "latitude": -0.240035,
+                                "longitude": 32.092325,
+                                "address": "10 Main St, Jinja, Uganda",
+                                "googleMapsLink": "https://www.google.com/maps?q=-0.240035,32.092325"
+                            },
+                            "phone": "+256 706 676150",
+                            "bio": "Dr. Jane Mugerwa specializes in counseling with extensive experience.",
+                            "image": "dr._jane_mugerwa.jpg",
+                            "rating": 4.8,
+                            "languagesSpoken": [
+                                "Runyankore"
+                            ],
+                            "workingHours": {
+                                "Monday": "8:00 AM - 6:00 PM",
+                                "Tuesday": "8:00 AM - 4:00 PM",
                                 "Wednesday": "8:00 AM - 6:00 PM",
                                 "Thursday": "8:00 AM - 6:00 PM",
                                 "Friday": "8:00 AM - 6:00 PM",
@@ -188,78 +2191,30 @@
                             }
                         },
                         {
-                            "name": "Dr. Peter Ssemwanga",
-                            "specialty": "Psychiatrist",
-                            "qualifications": "MD Psychiatry",
+                            "name": "Dr. Jane Okello",
+                            "specialty": "Therapy",
+                            "qualifications": "Licensed Clinical Therapist",
                             "location": {
-                                "latitude": 0.317,
-                                "longitude": 32.588,
-                                "address": "7 Makerere Hill Rd, Kampala, Uganda",
-                                "googleMapsLink": "https://www.google.com/maps?q=0.317,32.588"
+                                "latitude": -0.841573,
+                                "longitude": 31.365739,
+                                "address": "4 Hill Rd, Jinja, Uganda",
+                                "googleMapsLink": "https://www.google.com/maps?q=-0.841573,31.365739"
                             },
-                            "phone": "+256 706 223344",
-                            "bio": "Dr. Peter Ssemwanga specializes in mental health for adolescents and young adults.",
-                            "image": " peter_ssemwanga.jpg",
-                            "rating": 4.6,
-                            "languagesSpoken": ["English", "Luganda"],
+                            "phone": "+256 774 486697",
+                            "bio": "Dr. Jane Okello specializes in therapy with extensive experience.",
+                            "image": "dr._jane_okello.jpg",
+                            "rating": 5.0,
+                            "languagesSpoken": [
+                                "Runyankore",
+                                "Swahili",
+                                "Luganda"
+                            ],
                             "workingHours": {
-                                "Monday": "9:00 AM - 5:00 PM",
-                                "Tuesday": "9:00 AM - 5:00 PM",
-                                "Wednesday": "9:00 AM - 5:00 PM",
-                                "Thursday": "9:00 AM - 5:00 PM",
-                                "Friday": "9:00 AM - 5:00 PM",
-                                "Saturday": "Closed",
-                                "Sunday": "Closed"
-                            }
-                        }
-                    ],
-                    "Female": [
-                        {
-                            "name": "Dr. Pamela Sanyu",
-                            "specialty": "Psychiatrist",
-                            "qualifications": "MD Psychiatry",
-                            "location": {
-                                "latitude": 0.313,
-                                "longitude": 32.580,
-                                "address": "10 Nile Ave, Kampala, Uganda",
-                                "googleMapsLink": "https://www.google.com/maps?q=0.313,32.580"
-                            },
-                            "phone": "+256 772 567891",
-                            "bio": "Dr. Pamela Sanyu focuses on geriatric psychiatry and mental well-being of the elderly.",
-                            "image": " pamela_sanyu.jpg",
-                            "rating": 4.8,
-                            "languagesSpoken": ["English", "Luganda"],
-                            "workingHours": {
-                                "Monday": "9:00 AM - 5:00 PM",
-                                "Tuesday": "9:00 AM - 5:00 PM",
-                                "Wednesday": "9:00 AM - 5:00 PM",
-                                "Thursday": "9:00 AM - 5:00 PM",
-                                "Friday": "9:00 AM - 5:00 PM",
-                                "Saturday": "Closed",
-                                "Sunday": "Closed"
-                            }
-                        },
-                        {
-                            "name": "Dr. Irene Nakitende",
-                            "specialty": "Psychiatrist",
-                            "qualifications": "MD Psychiatry",
-                            "location": {
-                                "latitude": 0.312,
-                                "longitude": 32.581,
-                                "address": "Kampala Central Hospital, Kampala, Uganda",
-                                "googleMapsLink": "https://www.google.com/maps?q=0.312,32.581"
-                            },
-                            "phone": "+256 778 876543",
-                            "bio": "Dr. Irene Nakitende specializes in trauma and stress-related disorders.",
-                            "image": " irene_nakitende.jpg",
-                            "rating": 4.7,
-                            "languagesSpoken": ["English", "Luganda"],
-                            "workingHours": {
-                                "Monday": "9:00 AM - 5:00 PM",
-                                "Tuesday": "9:00 AM - 5:00 PM",
-                                "Wednesday": "9:00 AM - 5:00 PM",
-                                "Thursday": "9:00 AM - 5:00 PM",
-                                "Friday": "9:00 AM - 5:00 PM",
+                                "Monday": "9:00 AM - 6:00 PM",
+                                "Tuesday": "8:00 AM - 5:00 PM",
+                                "Wednesday": "9:00 AM - 4:00 PM",
+                                "Thursday": "9:00 AM - 6:00 PM",
+                                "Friday": "8:00 AM - 4:00 PM",
                                 "Saturday": "Closed",
                                 "Sunday": "Closed"
                             }
